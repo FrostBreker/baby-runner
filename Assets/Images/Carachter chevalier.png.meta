@@ -1,0 +1,3524 @@
+fileFormatVersion: 2
+guid: 544316c9dd9bcd84293d9f6c1089e12c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 934430469363265528
+    second: Carachter chevalier_0
+  - first:
+      213: 6322616489956489676
+    second: Carachter chevalier_1
+  - first:
+      213: 976510566677333814
+    second: Carachter chevalier_2
+  - first:
+      213: -2100342032894259624
+    second: Carachter chevalier_3
+  - first:
+      213: 4632498965910625841
+    second: Carachter chevalier_4
+  - first:
+      213: 7740278317518473287
+    second: Carachter chevalier_5
+  - first:
+      213: 5497144982896044831
+    second: Carachter chevalier_6
+  - first:
+      213: -5319436908752835749
+    second: Carachter chevalier_7
+  - first:
+      213: 1575262935606916200
+    second: Carachter chevalier_8
+  - first:
+      213: -5734409253429250855
+    second: Carachter chevalier_9
+  - first:
+      213: -4568179958342479932
+    second: Carachter chevalier_10
+  - first:
+      213: -547870044650166597
+    second: Carachter chevalier_11
+  - first:
+      213: 2818361633824422085
+    second: Carachter chevalier_12
+  - first:
+      213: -2803794668926303436
+    second: Carachter chevalier_13
+  - first:
+      213: 189033289401652202
+    second: Carachter chevalier_14
+  - first:
+      213: -594057901815671809
+    second: Carachter chevalier_15
+  - first:
+      213: 3491928794389736301
+    second: Carachter chevalier_16
+  - first:
+      213: -3949737928172513941
+    second: Carachter chevalier_17
+  - first:
+      213: -7873681019013743490
+    second: Carachter chevalier_18
+  - first:
+      213: 1777102436758144315
+    second: Carachter chevalier_19
+  - first:
+      213: -8716629016949088100
+    second: Carachter chevalier_20
+  - first:
+      213: -3109306798955534011
+    second: Carachter chevalier_21
+  - first:
+      213: 4387770569098791821
+    second: Carachter chevalier_22
+  - first:
+      213: -8609490329131725674
+    second: Carachter chevalier_23
+  - first:
+      213: -8487375820374839079
+    second: Carachter chevalier_24
+  - first:
+      213: -8424142748095716689
+    second: Carachter chevalier_25
+  - first:
+      213: 2008144554857690072
+    second: Carachter chevalier_26
+  - first:
+      213: -8252739083921729949
+    second: Carachter chevalier_27
+  - first:
+      213: 6945314044958531093
+    second: Carachter chevalier_28
+  - first:
+      213: 8684505411537949742
+    second: Carachter chevalier_29
+  - first:
+      213: 686572271675949475
+    second: Carachter chevalier_30
+  - first:
+      213: -9094129479500828051
+    second: Carachter chevalier_31
+  - first:
+      213: 5595384653639729842
+    second: Carachter chevalier_32
+  - first:
+      213: -6088473622489369570
+    second: Carachter chevalier_33
+  - first:
+      213: -928306785237303920
+    second: Carachter chevalier_34
+  - first:
+      213: 6676157646421019523
+    second: Carachter chevalier_35
+  - first:
+      213: -13385639083436136
+    second: Carachter chevalier_36
+  - first:
+      213: 517826620760680896
+    second: Carachter chevalier_37
+  - first:
+      213: -3960666543099331416
+    second: Carachter chevalier_38
+  - first:
+      213: -8599056965995695238
+    second: Carachter chevalier_39
+  - first:
+      213: -6518695585659615048
+    second: Carachter chevalier_40
+  - first:
+      213: 4714186520156126284
+    second: Carachter chevalier_41
+  - first:
+      213: 7248497760514480089
+    second: Carachter chevalier_42
+  - first:
+      213: -3062185253013787127
+    second: Carachter chevalier_43
+  - first:
+      213: -8412416551896178563
+    second: Carachter chevalier_44
+  - first:
+      213: 4674903198553840489
+    second: Carachter chevalier_45
+  - first:
+      213: -5730113445091778257
+    second: Carachter chevalier_46
+  - first:
+      213: 3384943791260396638
+    second: Carachter chevalier_47
+  - first:
+      213: 1244549811489500846
+    second: Carachter chevalier_48
+  - first:
+      213: -2603103557404627057
+    second: Carachter chevalier_49
+  - first:
+      213: -5449845477801481195
+    second: Carachter chevalier_50
+  - first:
+      213: -5549270962923829066
+    second: Carachter chevalier_51
+  - first:
+      213: 8817707976210167757
+    second: Carachter chevalier_52
+  - first:
+      213: 1315298620591961099
+    second: Carachter chevalier_53
+  - first:
+      213: -2293143476497131745
+    second: Carachter chevalier_54
+  - first:
+      213: -3579679104730848582
+    second: Carachter chevalier_55
+  - first:
+      213: -8573849677880177019
+    second: Carachter chevalier_56
+  - first:
+      213: 5368709183759117803
+    second: Carachter chevalier_57
+  - first:
+      213: -1015915485929317896
+    second: Carachter chevalier_58
+  - first:
+      213: 1166277932656564254
+    second: Carachter chevalier_59
+  - first:
+      213: -8224835387017472281
+    second: Carachter chevalier_60
+  - first:
+      213: -8563097411513785747
+    second: Carachter chevalier_61
+  - first:
+      213: -7263502412430923729
+    second: Carachter chevalier_62
+  - first:
+      213: 2538814728994950412
+    second: Carachter chevalier_63
+  - first:
+      213: -4626654404799207317
+    second: Carachter chevalier_64
+  - first:
+      213: -1420078695897522260
+    second: Carachter chevalier_65
+  - first:
+      213: -1878605933713368631
+    second: Carachter chevalier_66
+  - first:
+      213: 5733880456887023494
+    second: Carachter chevalier_67
+  - first:
+      213: 7959390520560170016
+    second: Carachter chevalier_68
+  - first:
+      213: 3565531821514685707
+    second: Carachter chevalier_69
+  - first:
+      213: 8909265327959198887
+    second: Carachter chevalier_70
+  - first:
+      213: -5640811978369503008
+    second: Carachter chevalier_71
+  - first:
+      213: -5548634220662605414
+    second: Carachter chevalier_72
+  - first:
+      213: 5820231293908271718
+    second: Carachter chevalier_73
+  - first:
+      213: 2870486338593198981
+    second: Carachter chevalier_74
+  - first:
+      213: 537592603385343771
+    second: Carachter chevalier_75
+  - first:
+      213: -5310397978035200626
+    second: Carachter chevalier_76
+  - first:
+      213: -5877970801244192964
+    second: Carachter chevalier_77
+  - first:
+      213: -2858323306829613770
+    second: Carachter chevalier_78
+  - first:
+      213: 3355900926536036042
+    second: Carachter chevalier_79
+  - first:
+      213: 6701036040462802893
+    second: Carachter chevalier_80
+  - first:
+      213: 994007469853692827
+    second: Carachter chevalier_81
+  - first:
+      213: -3021005334609741534
+    second: Carachter chevalier_82
+  - first:
+      213: 6270865166241292666
+    second: Carachter chevalier_83
+  - first:
+      213: -7980719078499688160
+    second: Carachter chevalier_84
+  - first:
+      213: 3231041881353643146
+    second: Carachter chevalier_85
+  - first:
+      213: 1556253207106056742
+    second: Carachter chevalier_86
+  - first:
+      213: 2557908909735668101
+    second: Carachter chevalier_87
+  - first:
+      213: -4353448581254456909
+    second: Carachter chevalier_88
+  - first:
+      213: 5291701487859603743
+    second: Carachter chevalier_89
+  - first:
+      213: -1558273751620932954
+    second: Carachter chevalier_90
+  - first:
+      213: 3616738774000456269
+    second: Carachter chevalier_91
+  - first:
+      213: -2622033043227680309
+    second: Carachter chevalier_92
+  - first:
+      213: -3063030654667087674
+    second: Carachter chevalier_93
+  - first:
+      213: 665878727966861541
+    second: Carachter chevalier_94
+  - first:
+      213: 4445786025116975490
+    second: Carachter chevalier_95
+  - first:
+      213: -2412702713392034914
+    second: Carachter chevalier_96
+  - first:
+      213: 3568927086122945787
+    second: Carachter chevalier_97
+  - first:
+      213: -3603333187818873846
+    second: Carachter chevalier_98
+  - first:
+      213: 6662673504239844356
+    second: Carachter chevalier_99
+  - first:
+      213: -1922171972494370366
+    second: Carachter chevalier_100
+  - first:
+      213: -1452731325878394109
+    second: Carachter chevalier_101
+  - first:
+      213: 8217257363979620009
+    second: Carachter chevalier_102
+  - first:
+      213: 1390693290216719805
+    second: Carachter chevalier_103
+  - first:
+      213: -4713596936438766012
+    second: Carachter chevalier_104
+  - first:
+      213: 2050610627167571388
+    second: Carachter chevalier_105
+  - first:
+      213: 5270393651455040593
+    second: Carachter chevalier_106
+  - first:
+      213: 3763003379370296276
+    second: Carachter chevalier_107
+  - first:
+      213: -7684413476334954251
+    second: Carachter chevalier_108
+  - first:
+      213: 7497565289173781933
+    second: Carachter chevalier_109
+  - first:
+      213: 4880352836902227712
+    second: Carachter chevalier_110
+  - first:
+      213: 1190893950968514581
+    second: Carachter chevalier_111
+  - first:
+      213: -2359224692512433422
+    second: Carachter chevalier_112
+  - first:
+      213: -8082338190014844912
+    second: Carachter chevalier_113
+  - first:
+      213: 2383654544469348577
+    second: Carachter chevalier_114
+  - first:
+      213: 4340837609336757752
+    second: Carachter chevalier_115
+  - first:
+      213: 500301627613773196
+    second: Carachter chevalier_116
+  - first:
+      213: 4629747588183979287
+    second: Carachter chevalier_117
+  - first:
+      213: 3185151046821259065
+    second: Carachter chevalier_118
+  - first:
+      213: -8852653705889354959
+    second: Carachter chevalier_119
+  - first:
+      213: -3467751171211145953
+    second: Carachter chevalier_120
+  - first:
+      213: -8438968053424627157
+    second: Carachter chevalier_121
+  - first:
+      213: 2832735690534303553
+    second: Carachter chevalier_122
+  - first:
+      213: -3292615881935778740
+    second: Carachter chevalier_123
+  - first:
+      213: 2237629124338680544
+    second: Carachter chevalier_124
+  - first:
+      213: -6401649479214664281
+    second: Carachter chevalier_125
+  - first:
+      213: -380232720441277650
+    second: Carachter chevalier_126
+  - first:
+      213: 6545381576688864606
+    second: Carachter chevalier_127
+  - first:
+      213: 1819714486150534989
+    second: Carachter chevalier_128
+  - first:
+      213: 163339988219833238
+    second: Carachter chevalier_129
+  - first:
+      213: 1055118209146446731
+    second: Carachter chevalier_130
+  - first:
+      213: 3157753421692846962
+    second: Carachter chevalier_131
+  - first:
+      213: 4467733168526836876
+    second: Carachter chevalier_132
+  - first:
+      213: 1903629910391701281
+    second: Carachter chevalier_133
+  - first:
+      213: 8903988149444297316
+    second: Carachter chevalier_134
+  - first:
+      213: -8643431454684041501
+    second: Carachter chevalier_135
+  - first:
+      213: 7893203626319400244
+    second: Carachter chevalier_136
+  - first:
+      213: 8754543364757612656
+    second: Carachter chevalier_137
+  - first:
+      213: -5904423835798503865
+    second: Carachter chevalier_138
+  - first:
+      213: -6754902696723669958
+    second: Carachter chevalier_139
+  - first:
+      213: -7736604945686739444
+    second: Carachter chevalier_140
+  - first:
+      213: -8766342684489739970
+    second: Carachter chevalier_141
+  - first:
+      213: 1294526151088405309
+    second: Carachter chevalier_142
+  - first:
+      213: 5568373933760826217
+    second: Carachter chevalier_143
+  - first:
+      213: -6254909558490690928
+    second: Carachter chevalier_144
+  - first:
+      213: 784139334446493625
+    second: Carachter chevalier_145
+  - first:
+      213: -6808269018242957532
+    second: Carachter chevalier_146
+  - first:
+      213: -1100898692300031366
+    second: Carachter chevalier_147
+  - first:
+      213: -7169882331600850196
+    second: Carachter chevalier_148
+  - first:
+      213: -2921478931230235074
+    second: Carachter chevalier_149
+  - first:
+      213: -8771083639951216382
+    second: Carachter chevalier_150
+  - first:
+      213: -6669869167105507190
+    second: Carachter chevalier_151
+  - first:
+      213: 8902367387786217883
+    second: Carachter chevalier_152
+  - first:
+      213: 6231881213386012794
+    second: Carachter chevalier_153
+  - first:
+      213: 3437132370565300012
+    second: Carachter chevalier_154
+  - first:
+      213: 2382118502348705085
+    second: Carachter chevalier_155
+  - first:
+      213: 2780253504864155430
+    second: Carachter chevalier_156
+  - first:
+      213: 1239407440657541400
+    second: Carachter chevalier_157
+  - first:
+      213: 2227041429407884428
+    second: Carachter chevalier_158
+  - first:
+      213: 8218842817270453608
+    second: Carachter chevalier_159
+  - first:
+      213: -8399262473603671953
+    second: Carachter chevalier_160
+  - first:
+      213: -8577780649927371952
+    second: Carachter chevalier_161
+  - first:
+      213: 7069176214622693968
+    second: Carachter chevalier_162
+  - first:
+      213: -1382101490660926610
+    second: Carachter chevalier_163
+  - first:
+      213: 4457055045397432256
+    second: Carachter chevalier_164
+  - first:
+      213: 6427125779093976929
+    second: Carachter chevalier_165
+  - first:
+      213: 7177958197066521414
+    second: Carachter chevalier_166
+  - first:
+      213: -2614770855285073391
+    second: Carachter chevalier_167
+  - first:
+      213: -86683796602968044
+    second: Carachter chevalier_168
+  - first:
+      213: -7684197551132627675
+    second: Carachter chevalier_169
+  - first:
+      213: -4076121600285869276
+    second: Carachter chevalier_170
+  - first:
+      213: 7325948851455708438
+    second: Carachter chevalier_171
+  - first:
+      213: -4416792706388360299
+    second: Carachter chevalier_172
+  - first:
+      213: -2272046370621626596
+    second: Carachter chevalier_173
+  - first:
+      213: 2445118934107339008
+    second: Carachter chevalier_174
+  - first:
+      213: 8997159383694453698
+    second: Carachter chevalier_175
+  - first:
+      213: 7822933906779638807
+    second: Carachter chevalier_176
+  - first:
+      213: 6139862194321076610
+    second: Carachter chevalier_177
+  - first:
+      213: 504582223213593595
+    second: Carachter chevalier_178
+  - first:
+      213: -1256766672309068711
+    second: Carachter chevalier_179
+  - first:
+      213: 7075188024960287623
+    second: Carachter chevalier_180
+  - first:
+      213: 4316120145406463377
+    second: Carachter chevalier_181
+  - first:
+      213: -6857985928073573348
+    second: Carachter chevalier_182
+  - first:
+      213: 92883534001305002
+    second: Carachter chevalier_183
+  - first:
+      213: -3913097212033279636
+    second: Carachter chevalier_184
+  - first:
+      213: 4716426812240432763
+    second: Carachter chevalier_185
+  - first:
+      213: -641741953859741719
+    second: Carachter chevalier_186
+  - first:
+      213: 616314613060532653
+    second: Carachter chevalier_187
+  - first:
+      213: -4110984485509367275
+    second: Carachter chevalier_188
+  - first:
+      213: 1717670114288379435
+    second: Carachter chevalier_189
+  - first:
+      213: 2421051352191374965
+    second: Carachter chevalier_190
+  - first:
+      213: -8763495570044941597
+    second: Carachter chevalier_191
+  - first:
+      213: 6086568553475447760
+    second: Carachter chevalier_192
+  - first:
+      213: -1197670242562568003
+    second: Carachter chevalier_193
+  - first:
+      213: 2310687522104164302
+    second: Carachter chevalier_194
+  - first:
+      213: -5794732013660206728
+    second: Carachter chevalier_195
+  - first:
+      213: -2086428407362730009
+    second: Carachter chevalier_196
+  - first:
+      213: -5873635071507843296
+    second: Carachter chevalier_197
+  - first:
+      213: 8686172143844658738
+    second: Carachter chevalier_198
+  - first:
+      213: 7751193289490556904
+    second: Carachter chevalier_199
+  - first:
+      213: -5019617092175239820
+    second: Carachter chevalier_200
+  - first:
+      213: 7271579142170330051
+    second: Carachter chevalier_201
+  - first:
+      213: -7252628552603127865
+    second: Carachter chevalier_202
+  - first:
+      213: 822775566292878054
+    second: Carachter chevalier_203
+  - first:
+      213: -7766441572597019953
+    second: Carachter chevalier_204
+  - first:
+      213: -8752370441109933082
+    second: Carachter chevalier_205
+  - first:
+      213: -7329551786077138552
+    second: Carachter chevalier_206
+  - first:
+      213: 3000312016683077109
+    second: Carachter chevalier_207
+  - first:
+      213: -852900612008358653
+    second: Carachter chevalier_208
+  - first:
+      213: -9146230904545056881
+    second: Carachter chevalier_209
+  - first:
+      213: 7199569135244625597
+    second: Carachter chevalier_210
+  - first:
+      213: -9164797300329350870
+    second: Carachter chevalier_211
+  - first:
+      213: -7080540508387889048
+    second: Carachter chevalier_212
+  - first:
+      213: -1516030793025667659
+    second: Carachter chevalier_213
+  - first:
+      213: 7544313009523252470
+    second: Carachter chevalier_214
+  - first:
+      213: 7818922301724007063
+    second: Carachter chevalier_215
+  - first:
+      213: 7170178561127366217
+    second: Carachter chevalier_216
+  - first:
+      213: -8378533140471484776
+    second: Carachter chevalier_217
+  - first:
+      213: -2244753049382808633
+    second: Carachter chevalier_218
+  - first:
+      213: 8502466736899921352
+    second: Carachter chevalier_219
+  - first:
+      213: -9199997638817164909
+    second: Carachter chevalier_220
+  - first:
+      213: 2209132892900818657
+    second: Carachter chevalier_221
+  - first:
+      213: -434647980662879851
+    second: Carachter chevalier_222
+  - first:
+      213: 4191195481912928528
+    second: Carachter chevalier_223
+  - first:
+      213: 2590711675118043112
+    second: Carachter chevalier_224
+  - first:
+      213: -6425518590410478801
+    second: Carachter chevalier_225
+  - first:
+      213: -7034645081199314400
+    second: Carachter chevalier_226
+  - first:
+      213: 8142670128983047666
+    second: Carachter chevalier_227
+  - first:
+      213: 7340663494342234970
+    second: Carachter chevalier_228
+  - first:
+      213: -8944945335205487868
+    second: Carachter chevalier_229
+  - first:
+      213: -455718427582375243
+    second: Carachter chevalier_230
+  - first:
+      213: -5333632519256397780
+    second: Carachter chevalier_231
+  - first:
+      213: -8524674930874570232
+    second: Carachter chevalier_232
+  - first:
+      213: -1508272805784938567
+    second: Carachter chevalier_233
+  - first:
+      213: -1860124603854327231
+    second: Carachter chevalier_234
+  - first:
+      213: -6517701653169504229
+    second: Carachter chevalier_235
+  - first:
+      213: 7933299681882048656
+    second: Carachter chevalier_236
+  - first:
+      213: 5064377563355759508
+    second: Carachter chevalier_237
+  - first:
+      213: 1827616005873846541
+    second: Carachter chevalier_238
+  - first:
+      213: -7545294152677840558
+    second: Carachter chevalier_239
+  - first:
+      213: -8353589558886305647
+    second: Carachter chevalier_240
+  - first:
+      213: -2620477191736318210
+    second: Carachter chevalier_241
+  - first:
+      213: -7802220136417674154
+    second: Carachter chevalier_242
+  - first:
+      213: -3302812993459045752
+    second: Carachter chevalier_243
+  - first:
+      213: 2438638760780380216
+    second: Carachter chevalier_244
+  - first:
+      213: 8919801897160080793
+    second: Carachter chevalier_245
+  - first:
+      213: -7355119518494961854
+    second: Carachter chevalier_246
+  - first:
+      213: 8354630775555242987
+    second: Carachter chevalier_247
+  - first:
+      213: 2852949769218364985
+    second: Carachter chevalier_248
+  - first:
+      213: 4166596475177481979
+    second: Carachter chevalier_249
+  - first:
+      213: -826164601230260222
+    second: Carachter chevalier_250
+  - first:
+      213: -7377604772003259396
+    second: Carachter chevalier_251
+  - first:
+      213: -2511999499917727435
+    second: Carachter chevalier_252
+  - first:
+      213: 4577082775153243500
+    second: Carachter chevalier_253
+  - first:
+      213: -2888715677189665678
+    second: Carachter chevalier_254
+  - first:
+      213: 3514100807575743440
+    second: Carachter chevalier_255
+  - first:
+      213: -4201168029254386550
+    second: Carachter chevalier_256
+  - first:
+      213: 6976111225754121483
+    second: Carachter chevalier_257
+  - first:
+      213: -2626254130177612496
+    second: Carachter chevalier_258
+  - first:
+      213: -3327794009094188418
+    second: Carachter chevalier_259
+  - first:
+      213: 8079490128648620547
+    second: Carachter chevalier_260
+  - first:
+      213: -7492444734434552307
+    second: Carachter chevalier_261
+  - first:
+      213: -2050848091456009960
+    second: Carachter chevalier_262
+  - first:
+      213: -5874847063725321830
+    second: Carachter chevalier_263
+  - first:
+      213: 4141226549781061936
+    second: Carachter chevalier_264
+  - first:
+      213: -4435443931320467497
+    second: Carachter chevalier_265
+  - first:
+      213: 8436486451685219439
+    second: Carachter chevalier_266
+  - first:
+      213: -1259714503428200519
+    second: Carachter chevalier_267
+  - first:
+      213: -2721391896836178055
+    second: Carachter chevalier_268
+  - first:
+      213: -994744661125751309
+    second: Carachter chevalier_269
+  - first:
+      213: 4886764901891184514
+    second: Carachter chevalier_270
+  - first:
+      213: 8896481740733711471
+    second: Carachter chevalier_271
+  - first:
+      213: 7839802713483260152
+    second: Carachter chevalier_272
+  - first:
+      213: -6335413118079542647
+    second: Carachter chevalier_273
+  - first:
+      213: -7656633197780133602
+    second: Carachter chevalier_274
+  - first:
+      213: -866417585453028255
+    second: Carachter chevalier_275
+  - first:
+      213: 4701269825458183186
+    second: Carachter chevalier_276
+  - first:
+      213: -3062679987708739352
+    second: Carachter chevalier_277
+  - first:
+      213: 7034808531427325924
+    second: Carachter chevalier_278
+  - first:
+      213: -6694712819268928324
+    second: Carachter chevalier_279
+  - first:
+      213: -7873234738958304409
+    second: Carachter chevalier_280
+  - first:
+      213: -88912518177525174
+    second: Carachter chevalier_281
+  - first:
+      213: 5768077885473226201
+    second: Carachter chevalier_282
+  - first:
+      213: -1588167447318993057
+    second: Carachter chevalier_283
+  - first:
+      213: -7561766792073969237
+    second: Carachter chevalier_284
+  - first:
+      213: 1662039402911612289
+    second: Carachter chevalier_285
+  - first:
+      213: 6486076633349490438
+    second: Carachter chevalier_286
+  - first:
+      213: -3490652513636590301
+    second: Carachter chevalier_287
+  - first:
+      213: -4337699333989509265
+    second: Carachter chevalier_288
+  - first:
+      213: 3924922231285624120
+    second: Carachter chevalier_289
+  - first:
+      213: -419667689178319904
+    second: Carachter chevalier_290
+  - first:
+      213: -8945958036794624767
+    second: Carachter chevalier_291
+  - first:
+      213: 9164810046011729120
+    second: Carachter chevalier_292
+  - first:
+      213: 8499239104452305380
+    second: Carachter chevalier_293
+  - first:
+      213: 1079163576545929835
+    second: Carachter chevalier_294
+  - first:
+      213: 3345907432201553251
+    second: Carachter chevalier_295
+  - first:
+      213: 951417522422298494
+    second: Carachter chevalier_296
+  - first:
+      213: -6994837403832434863
+    second: Carachter chevalier_297
+  - first:
+      213: 8987853757063643640
+    second: Carachter chevalier_298
+  - first:
+      213: -5562701683796269913
+    second: Carachter chevalier_299
+  - first:
+      213: 7898461427805902399
+    second: Carachter chevalier_300
+  - first:
+      213: 6129879437861161098
+    second: Carachter chevalier_301
+  - first:
+      213: -7462783378301197454
+    second: Carachter chevalier_302
+  - first:
+      213: 4689212038913841589
+    second: Carachter chevalier_303
+  - first:
+      213: 1008971387537422727
+    second: Carachter chevalier_304
+  - first:
+      213: -5673007194577943893
+    second: Carachter chevalier_305
+  - first:
+      213: -6752857837558228250
+    second: Carachter chevalier_306
+  - first:
+      213: -1425032892981349574
+    second: Carachter chevalier_307
+  - first:
+      213: -8079285447990069867
+    second: Carachter chevalier_308
+  - first:
+      213: 8316636620220192988
+    second: Carachter chevalier_309
+  - first:
+      213: -8013980678386611158
+    second: Carachter chevalier_310
+  - first:
+      213: -6287839845836757186
+    second: Carachter chevalier_311
+  - first:
+      213: -8625186483902208653
+    second: Carachter chevalier_312
+  - first:
+      213: -6121627793819013070
+    second: Carachter chevalier_313
+  - first:
+      213: 8323395424755843623
+    second: Carachter chevalier_314
+  - first:
+      213: -7819779912232294137
+    second: Carachter chevalier_315
+  - first:
+      213: 7009993027621365465
+    second: Carachter chevalier_316
+  - first:
+      213: -3211559801077558118
+    second: Carachter chevalier_317
+  - first:
+      213: 3098524084762106807
+    second: Carachter chevalier_318
+  - first:
+      213: 7678237420346426916
+    second: Carachter chevalier_319
+  - first:
+      213: -116429727691221926
+    second: Carachter chevalier_320
+  - first:
+      213: -7336580607756483481
+    second: Carachter chevalier_321
+  - first:
+      213: -2381413496228524676
+    second: Carachter chevalier_322
+  - first:
+      213: 957271889125065623
+    second: Carachter chevalier_323
+  - first:
+      213: -5667037959360767092
+    second: Carachter chevalier_324
+  - first:
+      213: 7901992019381668548
+    second: Carachter chevalier_325
+  - first:
+      213: -7911061683182181110
+    second: Carachter chevalier_326
+  - first:
+      213: 9148697601637966383
+    second: Carachter chevalier_327
+  - first:
+      213: -219998263333454323
+    second: Carachter chevalier_328
+  - first:
+      213: 2351863224977487833
+    second: Carachter chevalier_329
+  - first:
+      213: -7131458402197516996
+    second: Carachter chevalier_330
+  - first:
+      213: 1396027069228434362
+    second: Carachter chevalier_331
+  - first:
+      213: 2518475629173477833
+    second: Carachter chevalier_332
+  - first:
+      213: 435939061314425008
+    second: Carachter chevalier_333
+  - first:
+      213: 5237317148867101168
+    second: Carachter chevalier_334
+  - first:
+      213: -7237407737692539008
+    second: Carachter chevalier_335
+  - first:
+      213: -7175113897822995987
+    second: Carachter chevalier_336
+  - first:
+      213: -3853578719744041155
+    second: Carachter chevalier_337
+  - first:
+      213: 3090179756190606129
+    second: Carachter chevalier_338
+  - first:
+      213: 8439288071163354074
+    second: Carachter chevalier_339
+  - first:
+      213: 5906935332055965753
+    second: Carachter chevalier_340
+  - first:
+      213: 3736638162547121562
+    second: Carachter chevalier_341
+  - first:
+      213: 362134077121150423
+    second: Carachter chevalier_342
+  - first:
+      213: 6717825109448719347
+    second: Carachter chevalier_343
+  - first:
+      213: 2642004248988175677
+    second: Carachter chevalier_344
+  - first:
+      213: -822277894375935471
+    second: Carachter chevalier_345
+  - first:
+      213: 8108771342878539007
+    second: Carachter chevalier_346
+  - first:
+      213: -2396580848569871651
+    second: Carachter chevalier_347
+  - first:
+      213: 6590051844277712733
+    second: Carachter chevalier_348
+  - first:
+      213: -9051986314498749196
+    second: Carachter chevalier_349
+  - first:
+      213: 5808747192916497219
+    second: Carachter chevalier_350
+  - first:
+      213: -4439489657272587449
+    second: Carachter chevalier_351
+  - first:
+      213: 990999810908616666
+    second: Carachter chevalier_352
+  - first:
+      213: 8654424365076959558
+    second: Carachter chevalier_353
+  - first:
+      213: 4856770401358817559
+    second: Carachter chevalier_354
+  - first:
+      213: 7012168085724671329
+    second: Carachter chevalier_355
+  - first:
+      213: -8425328326432996522
+    second: Carachter chevalier_356
+  - first:
+      213: -12053300302122584
+    second: Carachter chevalier_357
+  - first:
+      213: -1769818580293936342
+    second: Carachter chevalier_358
+  - first:
+      213: 8522685667712736813
+    second: Carachter chevalier_359
+  - first:
+      213: -1564238544101536884
+    second: Carachter chevalier_360
+  - first:
+      213: 6743316388979195976
+    second: Carachter chevalier_361
+  - first:
+      213: -7861154088424720711
+    second: Carachter chevalier_362
+  - first:
+      213: -6476623168112397625
+    second: Carachter chevalier_363
+  - first:
+      213: -2727840444943233293
+    second: Carachter chevalier_364
+  - first:
+      213: 596608694782809916
+    second: Carachter chevalier_365
+  - first:
+      213: 5763835397449584299
+    second: Carachter chevalier_366
+  - first:
+      213: -2363320429708262302
+    second: Carachter chevalier_367
+  - first:
+      213: 1695574350635116599
+    second: Carachter chevalier_368
+  - first:
+      213: 3717052208839873706
+    second: Carachter chevalier_369
+  - first:
+      213: -2734178771387039577
+    second: Carachter chevalier_370
+  - first:
+      213: 2915313541019747077
+    second: Carachter chevalier_371
+  - first:
+      213: 9111867157081633712
+    second: Carachter chevalier_372
+  - first:
+      213: -2530902565933684824
+    second: Carachter chevalier_373
+  - first:
+      213: 5655551407856934352
+    second: Carachter chevalier_374
+  - first:
+      213: -4102336825775217384
+    second: Carachter chevalier_375
+  - first:
+      213: 2222019889261401161
+    second: Carachter chevalier_376
+  - first:
+      213: -5185287397795421200
+    second: Carachter chevalier_377
+  - first:
+      213: 2034900615432065202
+    second: Carachter chevalier_378
+  - first:
+      213: -3142724848397235017
+    second: Carachter chevalier_379
+  - first:
+      213: -2129498493900459038
+    second: Carachter chevalier_380
+  - first:
+      213: 1304908716578109917
+    second: Carachter chevalier_381
+  - first:
+      213: 8763236575314371604
+    second: Carachter chevalier_382
+  - first:
+      213: 7346297472944756591
+    second: Carachter chevalier_383
+  - first:
+      213: -8113669226652775459
+    second: Carachter chevalier_384
+  - first:
+      213: 3564601607239596615
+    second: Carachter chevalier_385
+  - first:
+      213: -8918896597813334883
+    second: Carachter chevalier_386
+  - first:
+      213: 3669416037572910354
+    second: Carachter chevalier_387
+  - first:
+      213: 5227055747917396852
+    second: Carachter chevalier_388
+  - first:
+      213: 1446764556582116635
+    second: Carachter chevalier_389
+  - first:
+      213: -1813526779137192919
+    second: Carachter chevalier_390
+  - first:
+      213: -5550512974961658760
+    second: Carachter chevalier_391
+  - first:
+      213: -8541903735700222047
+    second: Carachter chevalier_392
+  - first:
+      213: 5063054037169133701
+    second: Carachter chevalier_393
+  - first:
+      213: 3639835668518045068
+    second: Carachter chevalier_394
+  - first:
+      213: -7651456776962624443
+    second: Carachter chevalier_395
+  - first:
+      213: -5923513631923229959
+    second: Carachter chevalier_396
+  - first:
+      213: 5283109840522482603
+    second: Carachter chevalier_397
+  - first:
+      213: 547321239119144293
+    second: Carachter chevalier_398
+  - first:
+      213: -754185909445768130
+    second: Carachter chevalier_399
+  - first:
+      213: -2855378660819289570
+    second: Carachter chevalier_400
+  - first:
+      213: 68324642738552148
+    second: Carachter chevalier_401
+  - first:
+      213: 7950005793904426757
+    second: Carachter chevalier_402
+  - first:
+      213: 8900555544009165084
+    second: Carachter chevalier_403
+  - first:
+      213: 4697449382549912739
+    second: Carachter chevalier_404
+  - first:
+      213: 2347346312822785733
+    second: Carachter chevalier_405
+  - first:
+      213: -5884877080829966904
+    second: Carachter chevalier_406
+  - first:
+      213: 7813539914209229966
+    second: Carachter chevalier_407
+  - first:
+      213: 2083086717795351945
+    second: Carachter chevalier_408
+  - first:
+      213: 8624353097992553899
+    second: Carachter chevalier_409
+  - first:
+      213: -3405384873604354326
+    second: Carachter chevalier_410
+  - first:
+      213: 5851291384121004603
+    second: Carachter chevalier_411
+  - first:
+      213: 3557074471491108631
+    second: Carachter chevalier_412
+  - first:
+      213: 8781370081117945549
+    second: Carachter chevalier_413
+  - first:
+      213: -6030422452864878098
+    second: Carachter chevalier_414
+  - first:
+      213: 4102251210645966505
+    second: Carachter chevalier_415
+  - first:
+      213: 5116917678496679087
+    second: Carachter chevalier_416
+  - first:
+      213: 5167710237370454460
+    second: Carachter chevalier_417
+  - first:
+      213: 1970768172410375789
+    second: Carachter chevalier_418
+  - first:
+      213: 1636198777234374938
+    second: Carachter chevalier_419
+  - first:
+      213: 8245645455321092208
+    second: Carachter chevalier_420
+  - first:
+      213: 8263131297121516414
+    second: Carachter chevalier_421
+  - first:
+      213: -4870767741013935915
+    second: Carachter chevalier_422
+  - first:
+      213: -4616194417275672241
+    second: Carachter chevalier_423
+  - first:
+      213: 4300441654623890954
+    second: Carachter chevalier_424
+  - first:
+      213: -8748077696160157687
+    second: Carachter chevalier_425
+  - first:
+      213: -1134664779673111983
+    second: Carachter chevalier_426
+  - first:
+      213: -7803262009199704337
+    second: Carachter chevalier_427
+  - first:
+      213: 8044823719668878135
+    second: Carachter chevalier_428
+  - first:
+      213: 2799226316863086575
+    second: Carachter chevalier_429
+  - first:
+      213: 1333973927480995002
+    second: Carachter chevalier_430
+  - first:
+      213: -7355954397202084250
+    second: Carachter chevalier_431
+  - first:
+      213: -8636105108033958951
+    second: Carachter chevalier_432
+  - first:
+      213: 1280323451474527502
+    second: Carachter chevalier_433
+  - first:
+      213: -549924866904200305
+    second: Carachter chevalier_434
+  - first:
+      213: -5355337372300873224
+    second: Carachter chevalier_435
+  - first:
+      213: 4719518543661578787
+    second: Carachter chevalier_436
+  - first:
+      213: -3241865127719006533
+    second: Carachter chevalier_437
+  - first:
+      213: -528778294619781994
+    second: Carachter chevalier_438
+  - first:
+      213: 5116077896228061054
+    second: Carachter chevalier_439
+  - first:
+      213: -3744217560827366483
+    second: Carachter chevalier_440
+  - first:
+      213: -1538685954441403973
+    second: Carachter chevalier_441
+  - first:
+      213: 9057266422290854255
+    second: Carachter chevalier_442
+  - first:
+      213: -5622228557205062473
+    second: Carachter chevalier_443
+  - first:
+      213: -2127221744660619806
+    second: Carachter chevalier_444
+  - first:
+      213: -3901729498456610446
+    second: Carachter chevalier_445
+  - first:
+      213: 8805997443772270521
+    second: Carachter chevalier_446
+  - first:
+      213: 1315234254604105822
+    second: Carachter chevalier_447
+  - first:
+      213: 8165415344534483118
+    second: Carachter chevalier_448
+  - first:
+      213: 3304497637041222448
+    second: Carachter chevalier_449
+  - first:
+      213: 2431019863804135761
+    second: Carachter chevalier_450
+  - first:
+      213: 4693625417486281731
+    second: Carachter chevalier_451
+  - first:
+      213: -9023101508135517810
+    second: Carachter chevalier_452
+  - first:
+      213: -2539082921800568681
+    second: Carachter chevalier_453
+  - first:
+      213: 4935444171343940852
+    second: Carachter chevalier_454
+  - first:
+      213: 832882340824913199
+    second: Carachter chevalier_455
+  - first:
+      213: 8843595712889077220
+    second: Carachter chevalier_456
+  - first:
+      213: -2702592713739838026
+    second: Carachter chevalier_457
+  - first:
+      213: -1330371711054907990
+    second: Carachter chevalier_458
+  - first:
+      213: 4152818025454036803
+    second: Carachter chevalier_459
+  - first:
+      213: 1978547598256943819
+    second: Carachter chevalier_460
+  - first:
+      213: 8712181917811896528
+    second: Carachter chevalier_461
+  - first:
+      213: 5564723746155445218
+    second: Carachter chevalier_462
+  - first:
+      213: 3930452040558339692
+    second: Carachter chevalier_463
+  - first:
+      213: 7570059868741568860
+    second: Carachter chevalier_464
+  - first:
+      213: -2401342296375467580
+    second: Carachter chevalier_465
+  - first:
+      213: 3039938088576910535
+    second: Carachter chevalier_466
+  - first:
+      213: 6383705421801444011
+    second: Carachter chevalier_467
+  - first:
+      213: 859032730972708371
+    second: Carachter chevalier_468
+  - first:
+      213: 627902274690972029
+    second: Carachter chevalier_469
+  - first:
+      213: -3948273345908431323
+    second: Carachter chevalier_470
+  - first:
+      213: 3090653241982514519
+    second: Carachter chevalier_471
+  - first:
+      213: 5287013412232711666
+    second: Carachter chevalier_472
+  - first:
+      213: -6165710264940223142
+    second: Carachter chevalier_473
+  - first:
+      213: 5561824239275330223
+    second: Carachter chevalier_474
+  - first:
+      213: -890188581662033030
+    second: Carachter chevalier_475
+  - first:
+      213: -6083154425381014962
+    second: Carachter chevalier_476
+  - first:
+      213: 4686796950003567139
+    second: Carachter chevalier_477
+  - first:
+      213: 3291434180805731604
+    second: Carachter chevalier_478
+  - first:
+      213: 7136641283481247477
+    second: Carachter chevalier_479
+  - first:
+      213: -306272638188720838
+    second: Carachter chevalier_480
+  - first:
+      213: -1487061231123670259
+    second: Carachter chevalier_481
+  - first:
+      213: 9006263203595647021
+    second: Carachter chevalier_482
+  - first:
+      213: 6169850727133467772
+    second: Carachter chevalier_483
+  - first:
+      213: 8069378264047950369
+    second: Carachter chevalier_484
+  - first:
+      213: -6705691387651213452
+    second: Carachter chevalier_485
+  - first:
+      213: 4299261930406994274
+    second: Carachter chevalier_486
+  - first:
+      213: -6306054417258121385
+    second: Carachter chevalier_487
+  - first:
+      213: -7057540492027821536
+    second: Carachter chevalier_488
+  - first:
+      213: 2234234682540789194
+    second: Carachter chevalier_489
+  - first:
+      213: 6325393915295498383
+    second: Carachter chevalier_490
+  - first:
+      213: 9040183585786715755
+    second: Carachter chevalier_491
+  - first:
+      213: 8133411965443949011
+    second: Carachter chevalier_492
+  - first:
+      213: -2444757230726359022
+    second: Carachter chevalier_493
+  - first:
+      213: 1490191919417179367
+    second: Carachter chevalier_494
+  - first:
+      213: -5019312987191759349
+    second: Carachter chevalier_495
+  - first:
+      213: 290548173032360805
+    second: Carachter chevalier_496
+  - first:
+      213: 1032240376803393075
+    second: Carachter chevalier_497
+  - first:
+      213: 8104674345945279479
+    second: Carachter chevalier_498
+  - first:
+      213: -7049492041758074783
+    second: Carachter chevalier_499
+  - first:
+      213: 2948022868883669450
+    second: Carachter chevalier_500
+  - first:
+      213: -7287294467798298930
+    second: Carachter chevalier_501
+  - first:
+      213: -3978809004751192389
+    second: Carachter chevalier_502
+  - first:
+      213: 999272128989064648
+    second: Carachter chevalier_503
+  - first:
+      213: 218346641985100281
+    second: Carachter chevalier_504
+  - first:
+      213: 5816476609652008432
+    second: Carachter chevalier_505
+  - first:
+      213: 2096972383565533385
+    second: Carachter chevalier_506
+  - first:
+      213: -1102412692295522848
+    second: Carachter chevalier_507
+  - first:
+      213: 5009861655959915205
+    second: Carachter chevalier_508
+  - first:
+      213: 3236493730914913246
+    second: Carachter chevalier_509
+  - first:
+      213: -1792693361894990906
+    second: Carachter chevalier_510
+  - first:
+      213: -4680162353419684343
+    second: Carachter chevalier_511
+  - first:
+      213: -7520245239943393214
+    second: Carachter chevalier_512
+  - first:
+      213: 8783242786370459757
+    second: Carachter chevalier_513
+  - first:
+      213: -7431367382007461446
+    second: Carachter chevalier_514
+  - first:
+      213: -4498353982684778522
+    second: Carachter chevalier_515
+  - first:
+      213: -3610515242903084633
+    second: Carachter chevalier_516
+  - first:
+      213: -177362859647653495
+    second: Carachter chevalier_517
+  - first:
+      213: 1283454177939694413
+    second: Carachter chevalier_518
+  - first:
+      213: 1930883049354775916
+    second: Carachter chevalier_519
+  - first:
+      213: -554451223300524944
+    second: Carachter chevalier_520
+  - first:
+      213: 5000544975543748196
+    second: Carachter chevalier_521
+  - first:
+      213: -4209275591040111205
+    second: Carachter chevalier_522
+  - first:
+      213: 7410234949847149616
+    second: Carachter chevalier_523
+  - first:
+      213: 6902621126259396184
+    second: Carachter chevalier_524
+  - first:
+      213: 881214997251458679
+    second: Carachter chevalier_525
+  - first:
+      213: 3105222940530090892
+    second: Carachter chevalier_526
+  - first:
+      213: -500186581521756829
+    second: Carachter chevalier_527
+  - first:
+      213: 5918634754871995874
+    second: Carachter chevalier_528
+  - first:
+      213: -2582283883026583868
+    second: Carachter chevalier_529
+  - first:
+      213: -2912870691292773189
+    second: Carachter chevalier_530
+  - first:
+      213: -2995916727075686677
+    second: Carachter chevalier_531
+  - first:
+      213: 4187931431921229569
+    second: Carachter chevalier_532
+  - first:
+      213: 1216577666641011873
+    second: Carachter chevalier_533
+  - first:
+      213: -7091584058809357894
+    second: Carachter chevalier_534
+  - first:
+      213: 2809341067815120827
+    second: Carachter chevalier_535
+  - first:
+      213: 7809601550553903933
+    second: Carachter chevalier_536
+  - first:
+      213: -4966608445225384734
+    second: Carachter chevalier_537
+  - first:
+      213: 5799098013426963170
+    second: Carachter chevalier_538
+  - first:
+      213: -8896907626056039014
+    second: Carachter chevalier_539
+  - first:
+      213: 8301575689834716343
+    second: Carachter chevalier_540
+  - first:
+      213: 3755460532694956067
+    second: Carachter chevalier_541
+  - first:
+      213: -7606450323122339104
+    second: Carachter chevalier_542
+  - first:
+      213: 6020625434884268375
+    second: Carachter chevalier_543
+  - first:
+      213: 8912863349999703483
+    second: Carachter chevalier_544
+  - first:
+      213: -3724128367362116070
+    second: Carachter chevalier_545
+  - first:
+      213: 1962439577948402108
+    second: Carachter chevalier_546
+  - first:
+      213: -8014895522086339230
+    second: Carachter chevalier_547
+  - first:
+      213: -2554789926309395432
+    second: Carachter chevalier_548
+  - first:
+      213: 3382244753337976012
+    second: Carachter chevalier_549
+  - first:
+      213: -7282780828745279582
+    second: Carachter chevalier_550
+  - first:
+      213: 5425025027986507487
+    second: Carachter chevalier_551
+  - first:
+      213: 4549907369922158272
+    second: Carachter chevalier_552
+  - first:
+      213: -8989643713251964402
+    second: Carachter chevalier_553
+  - first:
+      213: 6482022050388613526
+    second: Carachter chevalier_554
+  - first:
+      213: 3592879698617134944
+    second: Carachter chevalier_555
+  - first:
+      213: -2011305029860865057
+    second: Carachter chevalier_556
+  - first:
+      213: 7393037709726632038
+    second: Carachter chevalier_557
+  - first:
+      213: -4210017656434899087
+    second: Carachter chevalier_558
+  - first:
+      213: 446942693451494127
+    second: Carachter chevalier_559
+  - first:
+      213: -3191107679192414007
+    second: Carachter chevalier_560
+  - first:
+      213: 4829922279258724353
+    second: Carachter chevalier_561
+  - first:
+      213: 3620362376837991776
+    second: Carachter chevalier_562
+  - first:
+      213: -8732085664068150482
+    second: Carachter chevalier_563
+  - first:
+      213: -2844819687059673259
+    second: Carachter chevalier_564
+  - first:
+      213: -543254905383770636
+    second: Carachter chevalier_565
+  - first:
+      213: -5869398512524515847
+    second: Carachter chevalier_566
+  - first:
+      213: 7893940563916117576
+    second: Carachter chevalier_567
+  - first:
+      213: -5406876576340042335
+    second: Carachter chevalier_568
+  - first:
+      213: 1767364433124361790
+    second: Carachter chevalier_569
+  - first:
+      213: 461329817352186383
+    second: Carachter chevalier_570
+  - first:
+      213: 180930839027112480
+    second: Carachter chevalier_571
+  - first:
+      213: 6729793922945523279
+    second: Carachter chevalier_572
+  - first:
+      213: 116717612360750849
+    second: Carachter chevalier_573
+  - first:
+      213: -8727532866430862478
+    second: Carachter chevalier_574
+  - first:
+      213: -1960067372702926488
+    second: Carachter chevalier_575
+  - first:
+      213: -8343155879376102835
+    second: Carachter chevalier_576
+  - first:
+      213: 3980475923402728918
+    second: Carachter chevalier_577
+  - first:
+      213: 6975741170697151924
+    second: Carachter chevalier_578
+  - first:
+      213: 4713297669974989755
+    second: Carachter chevalier_579
+  - first:
+      213: 43431494012909593
+    second: Carachter chevalier_580
+  - first:
+      213: 8226099751556624784
+    second: Carachter chevalier_581
+  - first:
+      213: -4152860109657052272
+    second: Carachter chevalier_582
+  - first:
+      213: 665906875891319870
+    second: Carachter chevalier_583
+  - first:
+      213: 6752151117433835328
+    second: Carachter chevalier_584
+  - first:
+      213: 2480049593760332227
+    second: Carachter chevalier_585
+  - first:
+      213: -7238072555509549734
+    second: Carachter chevalier_586
+  - first:
+      213: -3485970854472244398
+    second: Carachter chevalier_587
+  - first:
+      213: -7909720322437993461
+    second: Carachter chevalier_588
+  - first:
+      213: 4449963110778128286
+    second: Carachter chevalier_589
+  - first:
+      213: -7356127222764090546
+    second: Carachter chevalier_590
+  - first:
+      213: -1982902022550263685
+    second: Carachter chevalier_591
+  - first:
+      213: -1134108665404659667
+    second: Carachter chevalier_592
+  - first:
+      213: -5581644451182965590
+    second: Carachter chevalier_593
+  - first:
+      213: -3562992310671175205
+    second: Carachter chevalier_594
+  - first:
+      213: 5913618745128422581
+    second: Carachter chevalier_595
+  - first:
+      213: 7490657399684368588
+    second: Carachter chevalier_596
+  - first:
+      213: 3520995838886328579
+    second: Carachter chevalier_597
+  - first:
+      213: -5810453319373281710
+    second: Carachter chevalier_598
+  - first:
+      213: -1093221815988024293
+    second: Carachter chevalier_599
+  - first:
+      213: 563767744062740981
+    second: Carachter chevalier_600
+  - first:
+      213: 2744058582564545479
+    second: Carachter chevalier_601
+  - first:
+      213: 1103598156730538522
+    second: Carachter chevalier_602
+  - first:
+      213: -2401512200923561330
+    second: Carachter chevalier_603
+  - first:
+      213: 8725283983251565715
+    second: Carachter chevalier_604
+  - first:
+      213: -3645996710408978178
+    second: Carachter chevalier_605
+  - first:
+      213: 1324390242509778744
+    second: Carachter chevalier_606
+  - first:
+      213: 7407841351517848530
+    second: Carachter chevalier_607
+  - first:
+      213: -884351961640524804
+    second: Carachter chevalier_608
+  - first:
+      213: -2294325061100549088
+    second: Carachter chevalier_609
+  - first:
+      213: 8982051841533394320
+    second: Carachter chevalier_610
+  - first:
+      213: 2091784214231375047
+    second: Carachter chevalier_611
+  - first:
+      213: 2842450111696392100
+    second: Carachter chevalier_612
+  - first:
+      213: -1694740253919807031
+    second: Carachter chevalier_613
+  - first:
+      213: 5754729271097716157
+    second: Carachter chevalier_614
+  - first:
+      213: -4295808117691124859
+    second: Carachter chevalier_615
+  - first:
+      213: -5569565581805370701
+    second: Carachter chevalier_616
+  - first:
+      213: 8974278208942476828
+    second: Carachter chevalier_617
+  - first:
+      213: 3391114017666785332
+    second: Carachter chevalier_618
+  - first:
+      213: -4427896351486510192
+    second: Carachter chevalier_619
+  - first:
+      213: 8579153607531602331
+    second: Carachter chevalier_620
+  - first:
+      213: -5476513130519603926
+    second: Carachter chevalier_621
+  - first:
+      213: -2159295950760872684
+    second: Carachter chevalier_622
+  - first:
+      213: -2749780150874436742
+    second: Carachter chevalier_623
+  - first:
+      213: -689339535683614439
+    second: Carachter chevalier_624
+  - first:
+      213: 8415496320341974406
+    second: Carachter chevalier_625
+  - first:
+      213: 4605538813471777476
+    second: Carachter chevalier_626
+  - first:
+      213: 8113061021359167080
+    second: Carachter chevalier_627
+  - first:
+      213: 6557294119178275398
+    second: Carachter chevalier_628
+  - first:
+      213: 3529520735400957945
+    second: Carachter chevalier_629
+  - first:
+      213: 6653666668897345783
+    second: Carachter chevalier_630
+  - first:
+      213: -4838310473292950103
+    second: Carachter chevalier_631
+  - first:
+      213: 2591938661360006066
+    second: Carachter chevalier_632
+  - first:
+      213: -5400858906089154511
+    second: Carachter chevalier_633
+  - first:
+      213: 5040207377191124225
+    second: Carachter chevalier_634
+  - first:
+      213: -7937165983876516906
+    second: Carachter chevalier_635
+  - first:
+      213: 864565144135507393
+    second: Carachter chevalier_636
+  - first:
+      213: -5094025174572063148
+    second: Carachter chevalier_637
+  - first:
+      213: 976730853721196043
+    second: Carachter chevalier_638
+  - first:
+      213: -3132738957092323597
+    second: Carachter chevalier_639
+  - first:
+      213: 2400480027612324778
+    second: Carachter chevalier_640
+  - first:
+      213: 322433318598362788
+    second: Carachter chevalier_641
+  - first:
+      213: -8410589494148460819
+    second: Carachter chevalier_642
+  - first:
+      213: 900961929688640248
+    second: Carachter chevalier_643
+  - first:
+      213: 4963742551446480064
+    second: Carachter chevalier_644
+  - first:
+      213: -7881483444551790762
+    second: Carachter chevalier_645
+  - first:
+      213: -5875634019800854129
+    second: Carachter chevalier_646
+  - first:
+      213: -4983830819557764598
+    second: Carachter chevalier_647
+  - first:
+      213: -633030613873742136
+    second: Carachter chevalier_648
+  - first:
+      213: -8949171273895758884
+    second: Carachter chevalier_649
+  - first:
+      213: 3996807708293343476
+    second: Carachter chevalier_650
+  - first:
+      213: 9129337890972347511
+    second: Carachter chevalier_651
+  - first:
+      213: -7108724502945248850
+    second: Carachter chevalier_652
+  - first:
+      213: -381405477621085380
+    second: Carachter chevalier_653
+  - first:
+      213: -845064186117627487
+    second: Carachter chevalier_654
+  - first:
+      213: -6417275634875902428
+    second: Carachter chevalier_655
+  - first:
+      213: -3026650502077695771
+    second: Carachter chevalier_656
+  - first:
+      213: -6833548754514070489
+    second: Carachter chevalier_657
+  - first:
+      213: -1771728954933598069
+    second: Carachter chevalier_658
+  - first:
+      213: -955212774470892872
+    second: Carachter chevalier_659
+  - first:
+      213: 6853043176988336338
+    second: Carachter chevalier_660
+  - first:
+      213: -7526212937576173648
+    second: Carachter chevalier_661
+  - first:
+      213: 5000203372190488922
+    second: Carachter chevalier_662
+  - first:
+      213: -4769932415501728055
+    second: Carachter chevalier_663
+  - first:
+      213: 7267268382574314032
+    second: Carachter chevalier_664
+  - first:
+      213: -4127736258157433739
+    second: Carachter chevalier_665
+  - first:
+      213: -8516841946956987062
+    second: Carachter chevalier_666
+  - first:
+      213: -366440581124127269
+    second: Carachter chevalier_667
+  - first:
+      213: -6726238016262149273
+    second: Carachter chevalier_668
+  - first:
+      213: 1579142724842300653
+    second: Carachter chevalier_669
+  - first:
+      213: 2341291114246098417
+    second: Carachter chevalier_670
+  - first:
+      213: 5341510792223512485
+    second: Carachter chevalier_671
+  - first:
+      213: 7342420852690407725
+    second: Carachter chevalier_672
+  - first:
+      213: -3162652139113409957
+    second: Carachter chevalier_673
+  - first:
+      213: 7951394039102796682
+    second: Carachter chevalier_674
+  - first:
+      213: 2330865398015123740
+    second: Carachter chevalier_675
+  - first:
+      213: 8674130609595101790
+    second: Carachter chevalier_676
+  - first:
+      213: -7062856951506769846
+    second: Carachter chevalier_677
+  - first:
+      213: 1521586166251768241
+    second: Carachter chevalier_678
+  - first:
+      213: -4791396579470174299
+    second: Carachter chevalier_679
+  - first:
+      213: -1273335959200023947
+    second: Carachter chevalier_680
+  - first:
+      213: 790052572649265909
+    second: Carachter chevalier_681
+  - first:
+      213: 9082360153736955271
+    second: Carachter chevalier_682
+  - first:
+      213: 7282126516136149390
+    second: Carachter chevalier_683
+  - first:
+      213: 3415155309906241526
+    second: Carachter chevalier_684
+  - first:
+      213: -528373541848306358
+    second: Carachter chevalier_685
+  - first:
+      213: 8565640086952014061
+    second: Carachter chevalier_686
+  - first:
+      213: 5035301526045948199
+    second: Carachter chevalier_687
+  - first:
+      213: 4100456713356309161
+    second: Carachter chevalier_688
+  - first:
+      213: 4439964360819117836
+    second: Carachter chevalier_689
+  - first:
+      213: 8511783683896721363
+    second: Carachter chevalier_690
+  - first:
+      213: -5254841104140000456
+    second: Carachter chevalier_691
+  - first:
+      213: -7011967951549230632
+    second: Carachter chevalier_692
+  - first:
+      213: 4159827798485783222
+    second: Carachter chevalier_693
+  - first:
+      213: -5098766492254880157
+    second: Carachter chevalier_694
+  - first:
+      213: -2479776947019633722
+    second: Carachter chevalier_695
+  - first:
+      213: 6485489441733134721
+    second: Carachter chevalier_696
+  - first:
+      213: -8785426005896322904
+    second: Carachter chevalier_697
+  - first:
+      213: -4843988507608011318
+    second: Carachter chevalier_698
+  - first:
+      213: 2252531251210633067
+    second: Carachter chevalier_699
+  - first:
+      213: -8345002305828825631
+    second: Carachter chevalier_700
+  - first:
+      213: -8689543936999875276
+    second: Carachter chevalier_701
+  - first:
+      213: -6098823859148725924
+    second: Carachter chevalier_702
+  - first:
+      213: -668788398480453648
+    second: Carachter chevalier_703
+  - first:
+      213: -4150521186401558190
+    second: Carachter chevalier_704
+  - first:
+      213: -8184205598047887486
+    second: Carachter chevalier_705
+  - first:
+      213: 3045120570199253447
+    second: Carachter chevalier_706
+  - first:
+      213: 5194731950845843091
+    second: Carachter chevalier_707
+  - first:
+      213: -7728235897154111370
+    second: Carachter chevalier_708
+  - first:
+      213: 1441852918939132799
+    second: Carachter chevalier_709
+  - first:
+      213: -5350544518094209099
+    second: Carachter chevalier_710
+  - first:
+      213: 2064513518905050443
+    second: Carachter chevalier_711
+  - first:
+      213: 8379739496019292520
+    second: Carachter chevalier_712
+  - first:
+      213: -6551526235322569149
+    second: Carachter chevalier_713
+  - first:
+      213: -8814293264111534506
+    second: Carachter chevalier_714
+  - first:
+      213: 8986977975190072850
+    second: Carachter chevalier_715
+  - first:
+      213: 3340555209744233050
+    second: Carachter chevalier_716
+  - first:
+      213: -7170175773072355327
+    second: Carachter chevalier_717
+  - first:
+      213: -6196025841676104643
+    second: Carachter chevalier_718
+  - first:
+      213: 5580766756556749024
+    second: Carachter chevalier_719
+  - first:
+      213: -7946007581960313204
+    second: Carachter chevalier_720
+  - first:
+      213: 2131011613855400782
+    second: Carachter chevalier_721
+  - first:
+      213: 426897249612084824
+    second: Carachter chevalier_722
+  - first:
+      213: 7280516248777816639
+    second: Carachter chevalier_723
+  - first:
+      213: 4507881833372235963
+    second: Carachter chevalier_724
+  - first:
+      213: 1779866882274616463
+    second: Carachter chevalier_725
+  - first:
+      213: 5998409263869880811
+    second: Carachter chevalier_726
+  - first:
+      213: -7863460092000517011
+    second: Carachter chevalier_727
+  - first:
+      213: 8469153301977733900
+    second: Carachter chevalier_728
+  - first:
+      213: 8313971607255574074
+    second: Carachter chevalier_729
+  - first:
+      213: -1185279616083854857
+    second: Carachter chevalier_730
+  - first:
+      213: 826007909424737129
+    second: Carachter chevalier_731
+  - first:
+      213: -1137888276653876321
+    second: Carachter chevalier_732
+  - first:
+      213: 4678902820183313786
+    second: Carachter chevalier_733
+  - first:
+      213: 708166877259687878
+    second: Carachter chevalier_734
+  - first:
+      213: -7928476616202157463
+    second: Carachter chevalier_735
+  - first:
+      213: 5287232027306777166
+    second: Carachter chevalier_736
+  - first:
+      213: -7286068385189281086
+    second: Carachter chevalier_737
+  - first:
+      213: -2552977306259731920
+    second: Carachter chevalier_738
+  - first:
+      213: -3009992906769554904
+    second: Carachter chevalier_739
+  - first:
+      213: 5010586069950730640
+    second: Carachter chevalier_740
+  - first:
+      213: -2168275011131407934
+    second: Carachter chevalier_741
+  - first:
+      213: 3706527490512731218
+    second: Carachter chevalier_742
+  - first:
+      213: 1739468940008502189
+    second: Carachter chevalier_743
+  - first:
+      213: -3916165467889768847
+    second: Carachter chevalier_744
+  - first:
+      213: 5753549754886541129
+    second: Carachter chevalier_745
+  - first:
+      213: 4193455643785935
+    second: Carachter chevalier_746
+  - first:
+      213: -8156689510501450499
+    second: Carachter chevalier_747
+  - first:
+      213: 5057422803060294183
+    second: Carachter chevalier_748
+  - first:
+      213: 9093788421116891955
+    second: Carachter chevalier_749
+  - first:
+      213: -2883335582202597157
+    second: Carachter chevalier_750
+  - first:
+      213: 7235068931057334719
+    second: Carachter chevalier_751
+  - first:
+      213: -4792100652114877605
+    second: Carachter chevalier_752
+  - first:
+      213: 7440929365539404644
+    second: Carachter chevalier_753
+  - first:
+      213: -6362940945611295789
+    second: Carachter chevalier_754
+  - first:
+      213: 8444890185927546696
+    second: Carachter chevalier_755
+  - first:
+      213: 4062422979695982101
+    second: Carachter chevalier_756
+  - first:
+      213: 7861302262043090954
+    second: Carachter chevalier_757
+  - first:
+      213: -8132243323387739527
+    second: Carachter chevalier_758
+  - first:
+      213: 7635441636039263150
+    second: Carachter chevalier_759
+  - first:
+      213: 8842196624160387345
+    second: Carachter chevalier_760
+  - first:
+      213: 270231031523123928
+    second: Carachter chevalier_761
+  - first:
+      213: 3667729918983021157
+    second: Carachter chevalier_762
+  - first:
+      213: 3666029387224214365
+    second: Carachter chevalier_763
+  - first:
+      213: 4536775590736934431
+    second: Carachter chevalier_764
+  - first:
+      213: -2956468739486814212
+    second: Carachter chevalier_765
+  - first:
+      213: 8531887820822829327
+    second: Carachter chevalier_766
+  - first:
+      213: -5665403501554458434
+    second: Carachter chevalier_767
+  - first:
+      213: 9033585622875030813
+    second: Carachter chevalier_768
+  - first:
+      213: 2197279661989453117
+    second: Carachter chevalier_769
+  - first:
+      213: 7334385885990072201
+    second: Carachter chevalier_770
+  - first:
+      213: -9059471683102603645
+    second: Carachter chevalier_771
+  - first:
+      213: 8449951178406024157
+    second: Carachter chevalier_772
+  - first:
+      213: -3134665926180933970
+    second: Carachter chevalier_773
+  - first:
+      213: -3711986731308056141
+    second: Carachter chevalier_774
+  - first:
+      213: 7173094134795635892
+    second: Carachter chevalier_775
+  - first:
+      213: 802950974974568839
+    second: Carachter chevalier_776
+  - first:
+      213: 4226739678020480406
+    second: Carachter chevalier_777
+  - first:
+      213: 6960044077561262934
+    second: Carachter chevalier_778
+  - first:
+      213: 4699383427408818453
+    second: Carachter chevalier_779
+  - first:
+      213: 8908959371786584375
+    second: Carachter chevalier_780
+  - first:
+      213: -7153321768779955351
+    second: Carachter chevalier_781
+  - first:
+      213: -7975763783979929292
+    second: Carachter chevalier_782
+  - first:
+      213: -147783583027348708
+    second: Carachter chevalier_783
+  - first:
+      213: -5537440618440541997
+    second: Carachter chevalier_784
+  - first:
+      213: 8947769553199192002
+    second: Carachter chevalier_785
+  - first:
+      213: -2372044007164531561
+    second: Carachter chevalier_786
+  - first:
+      213: 3748855104670010724
+    second: Carachter chevalier_787
+  - first:
+      213: 591804979134985768
+    second: Carachter chevalier_788
+  - first:
+      213: -137816187455752351
+    second: Carachter chevalier_789
+  - first:
+      213: 2244421425692760972
+    second: Carachter chevalier_790
+  - first:
+      213: -8356939790146023256
+    second: Carachter chevalier_791
+  - first:
+      213: -2173393193193623819
+    second: Carachter chevalier_792
+  - first:
+      213: 1405535144176083295
+    second: Carachter chevalier_793
+  - first:
+      213: -5066415720096993222
+    second: Carachter chevalier_794
+  - first:
+      213: 712093058691544346
+    second: Carachter chevalier_795
+  - first:
+      213: 8671381106867013414
+    second: Carachter chevalier_796
+  - first:
+      213: -3640971432883955530
+    second: Carachter chevalier_797
+  - first:
+      213: 3925783138145629846
+    second: Carachter chevalier_798
+  - first:
+      213: -8405984035105466248
+    second: Carachter chevalier_799
+  - first:
+      213: 7089624259804435576
+    second: Carachter chevalier_800
+  - first:
+      213: 1033251696542767395
+    second: Carachter chevalier_801
+  - first:
+      213: 1006415250305529313
+    second: Carachter chevalier_802
+  - first:
+      213: 1078995839936271326
+    second: Carachter chevalier_803
+  - first:
+      213: 4297573565632889233
+    second: Carachter chevalier_804
+  - first:
+      213: 7870109812691631543
+    second: Carachter chevalier_805
+  - first:
+      213: 1940604261554601919
+    second: Carachter chevalier_806
+  - first:
+      213: 8879958305818721846
+    second: Carachter chevalier_807
+  - first:
+      213: 7087822346844720508
+    second: Carachter chevalier_808
+  - first:
+      213: -2908564710088692392
+    second: Carachter chevalier_809
+  - first:
+      213: -8639864040160981757
+    second: Carachter chevalier_810
+  - first:
+      213: -7913953462406742089
+    second: Carachter chevalier_811
+  - first:
+      213: -3708921607696080508
+    second: Carachter chevalier_812
+  - first:
+      213: -6869431931999358104
+    second: Carachter chevalier_813
+  - first:
+      213: -2563891852702446291
+    second: Carachter chevalier_814
+  - first:
+      213: 1053466636834648805
+    second: Carachter chevalier_815
+  - first:
+      213: -2936430842803920393
+    second: Carachter chevalier_816
+  - first:
+      213: -8531566374896240805
+    second: Carachter chevalier_817
+  - first:
+      213: -4053937568837653269
+    second: Carachter chevalier_818
+  - first:
+      213: -524935942201306753
+    second: Carachter chevalier_819
+  - first:
+      213: 1243335571174170710
+    second: Carachter chevalier_820
+  - first:
+      213: -1224187473449426551
+    second: Carachter chevalier_821
+  - first:
+      213: 1240256220811502813
+    second: Carachter chevalier_822
+  - first:
+      213: 8219384393136885167
+    second: Carachter chevalier_823
+  - first:
+      213: 8185286696626230803
+    second: Carachter chevalier_824
+  - first:
+      213: 9135166349436436352
+    second: Carachter chevalier_825
+  - first:
+      213: 3177285368211869212
+    second: Carachter chevalier_826
+  - first:
+      213: 2774007419658694152
+    second: Carachter chevalier_827
+  - first:
+      213: 4948275822811833190
+    second: Carachter chevalier_828
+  - first:
+      213: 6195975715692923422
+    second: Carachter chevalier_829
+  - first:
+      213: -664259191427322618
+    second: Carachter chevalier_830
+  - first:
+      213: -2691748125937019382
+    second: Carachter chevalier_831
+  - first:
+      213: 1487023496232511414
+    second: Carachter chevalier_832
+  - first:
+      213: 3761464258413834395
+    second: Carachter chevalier_833
+  - first:
+      213: -5447644329859622890
+    second: Carachter chevalier_834
+  - first:
+      213: 4418607995806896907
+    second: Carachter chevalier_835
+  - first:
+      213: 7578026490949801370
+    second: Carachter chevalier_836
+  - first:
+      213: -1681263815717468400
+    second: Carachter chevalier_837
+  - first:
+      213: -576824306423059782
+    second: Carachter chevalier_838
+  - first:
+      213: 6771095314417067513
+    second: Carachter chevalier_839
+  - first:
+      213: -7418783948438795193
+    second: Carachter chevalier_840
+  - first:
+      213: 4400027415916836436
+    second: Carachter chevalier_841
+  - first:
+      213: -5751523418523774580
+    second: Carachter chevalier_842
+  - first:
+      213: 8168754992280959849
+    second: Carachter chevalier_843
+  - first:
+      213: 1454675293451822256
+    second: Carachter chevalier_844
+  - first:
+      213: -3936104363821389173
+    second: Carachter chevalier_845
+  - first:
+      213: 433160388245672831
+    second: Carachter chevalier_846
+  - first:
+      213: -2281591343515311134
+    second: Carachter chevalier_847
+  - first:
+      213: -2807167966873782403
+    second: Carachter chevalier_848
+  - first:
+      213: 8150729797847621986
+    second: Carachter chevalier_849
+  - first:
+      213: 5101895659179463556
+    second: Carachter chevalier_850
+  - first:
+      213: -2919785020315747988
+    second: Carachter chevalier_851
+  - first:
+      213: 425587419179538379
+    second: Carachter chevalier_852
+  - first:
+      213: -5993945531480882537
+    second: Carachter chevalier_853
+  - first:
+      213: -1479061120650314381
+    second: Carachter chevalier_854
+  - first:
+      213: 8618073790736711670
+    second: Carachter chevalier_855
+  - first:
+      213: 8973981873734192731
+    second: Carachter chevalier_856
+  - first:
+      213: 3373225124724501233
+    second: Carachter chevalier_857
+  - first:
+      213: -8488333751436284680
+    second: Carachter chevalier_858
+  - first:
+      213: 9143063267862643409
+    second: Carachter chevalier_859
+  - first:
+      213: 161532634694089438
+    second: Carachter chevalier_860
+  - first:
+      213: 9039782397357455187
+    second: Carachter chevalier_861
+  - first:
+      213: 4794313188023134927
+    second: Carachter chevalier_862
+  - first:
+      213: -3869359740437019407
+    second: Carachter chevalier_863
+  - first:
+      213: -3877579978375034406
+    second: Carachter chevalier_864
+  - first:
+      213: 5905126586488112485
+    second: Carachter chevalier_865
+  - first:
+      213: 3021295235762368095
+    second: Carachter chevalier_866
+  - first:
+      213: -7444002582479471141
+    second: Carachter chevalier_867
+  - first:
+      213: 720979860881374164
+    second: Carachter chevalier_868
+  - first:
+      213: 7748354542940844889
+    second: Carachter chevalier_869
+  - first:
+      213: 8299501788689258475
+    second: Carachter chevalier_870
+  - first:
+      213: -6512868796703777247
+    second: Carachter chevalier_871
+  - first:
+      213: -7205678604256355813
+    second: Carachter chevalier_872
+  - first:
+      213: -8751672156445620129
+    second: Carachter chevalier_873
+  - first:
+      213: -5483779281945557509
+    second: Carachter chevalier_874
+  - first:
+      213: 7419377662950117197
+    second: Carachter chevalier_875
+  - first:
+      213: -3816079619498012103
+    second: Carachter chevalier_876
+  - first:
+      213: 768812250848716232
+    second: Carachter chevalier_877
+  - first:
+      213: -4510299520389096095
+    second: Carachter chevalier_878
+  - first:
+      213: -2348457864966138861
+    second: Carachter chevalier_879
+  - first:
+      213: -4513509711311190014
+    second: Carachter chevalier_880
+  - first:
+      213: 1479172759867106534
+    second: Carachter chevalier_881
+  - first:
+      213: -1274408310758228336
+    second: Carachter chevalier_882
+  - first:
+      213: 2249574422364340081
+    second: Carachter chevalier_883
+  - first:
+      213: -3579198257071831297
+    second: Carachter chevalier_884
+  - first:
+      213: -7092992597063672168
+    second: Carachter chevalier_885
+  - first:
+      213: -3651843396138585179
+    second: Carachter chevalier_886
+  - first:
+      213: 7904613506588078411
+    second: Carachter chevalier_887
+  - first:
+      213: 7990109157888676825
+    second: Carachter chevalier_888
+  - first:
+      213: 9137785938324179795
+    second: Carachter chevalier_889
+  - first:
+      213: -7391432936814661103
+    second: Carachter chevalier_890
+  - first:
+      213: 3077489446455999344
+    second: Carachter chevalier_891
+  - first:
+      213: -6665650092590104585
+    second: Carachter chevalier_892
+  - first:
+      213: -6681866130981032763
+    second: Carachter chevalier_893
+  - first:
+      213: 2340409327105541063
+    second: Carachter chevalier_894
+  - first:
+      213: -3472207558409863581
+    second: Carachter chevalier_895
+  - first:
+      213: -986962509384755989
+    second: Carachter chevalier_896
+  - first:
+      213: -4568121469609309337
+    second: Carachter chevalier_897
+  - first:
+      213: 6830229845745838937
+    second: Carachter chevalier_898
+  - first:
+      213: 4810632647376735651
+    second: Carachter chevalier_899
+  - first:
+      213: -774583710562982153
+    second: Carachter chevalier_900
+  - first:
+      213: 6274392722678292880
+    second: Carachter chevalier_901
+  - first:
+      213: 3203580944282826788
+    second: Carachter chevalier_902
+  - first:
+      213: 7073659599435400845
+    second: Carachter chevalier_903
+  - first:
+      213: 343442986322892882
+    second: Carachter chevalier_904
+  - first:
+      213: -6313206665954640511
+    second: Carachter chevalier_905
+  - first:
+      213: -3461561535793490474
+    second: Carachter chevalier_906
+  - first:
+      213: -248099197912097817
+    second: Carachter chevalier_907
+  - first:
+      213: 912242390304223669
+    second: Carachter chevalier_908
+  - first:
+      213: 1033298989342576307
+    second: Carachter chevalier_909
+  - first:
+      213: -241657742589205563
+    second: Carachter chevalier_910
+  - first:
+      213: -4775444858873378083
+    second: Carachter chevalier_911
+  - first:
+      213: 6923015731185831995
+    second: Carachter chevalier_912
+  - first:
+      213: -6229679556749830247
+    second: Carachter chevalier_913
+  - first:
+      213: -6282684075762325713
+    second: Carachter chevalier_914
+  - first:
+      213: -5894210759249704620
+    second: Carachter chevalier_915
+  - first:
+      213: -9065057994158612720
+    second: Carachter chevalier_916
+  - first:
+      213: -6224702439837038925
+    second: Carachter chevalier_917
+  - first:
+      213: 6409053113655652554
+    second: Carachter chevalier_918
+  - first:
+      213: -5943031685270078107
+    second: Carachter chevalier_919
+  - first:
+      213: 1828948633533046449
+    second: Carachter chevalier_920
+  - first:
+      213: 1118889464801111305
+    second: Carachter chevalier_921
+  - first:
+      213: 1395179871450092270
+    second: Carachter chevalier_922
+  - first:
+      213: 1032669402651388403
+    second: Carachter chevalier_923
+  - first:
+      213: -1532034172673769283
+    second: Carachter chevalier_924
+  - first:
+      213: -5663406937223316764
+    second: Carachter chevalier_925
+  - first:
+      213: -6939848184215820277
+    second: Carachter chevalier_926
+  - first:
+      213: 279782011394160153
+    second: Carachter chevalier_927
+  - first:
+      213: 3458254444315057115
+    second: Carachter chevalier_928
+  - first:
+      213: -4912341808924152723
+    second: Carachter chevalier_929
+  - first:
+      213: -787118101021007922
+    second: Carachter chevalier_930
+  - first:
+      213: 2643101301501874071
+    second: Carachter chevalier_931
+  - first:
+      213: 3927809059418226156
+    second: Carachter chevalier_932
+  - first:
+      213: -5276430341504184940
+    second: Carachter chevalier_933
+  - first:
+      213: 4707134199794531491
+    second: Carachter chevalier_934
+  - first:
+      213: 6953494379952774931
+    second: Carachter chevalier_935
+  - first:
+      213: 3176587689309873604
+    second: Carachter chevalier_936
+  - first:
+      213: -1570058481733906973
+    second: Carachter chevalier_937
+  - first:
+      213: 493610533633402714
+    second: Carachter chevalier_938
+  - first:
+      213: -488998608907166447
+    second: Carachter chevalier_939
+  - first:
+      213: -4160158724176411849
+    second: Carachter chevalier_940
+  - first:
+      213: -983925362237671994
+    second: Carachter chevalier_941
+  - first:
+      213: 1294958487304169983
+    second: Carachter chevalier_942
+  - first:
+      213: 1505654717572946284
+    second: Carachter chevalier_943
+  - first:
+      213: 1861367483724695975
+    second: Carachter chevalier_944
+  - first:
+      213: -3844374666784710914
+    second: Carachter chevalier_945
+  - first:
+      213: -8078826724197641821
+    second: Carachter chevalier_946
+  - first:
+      213: -8946075711636161185
+    second: Carachter chevalier_947
+  - first:
+      213: -3800632339210758062
+    second: Carachter chevalier_948
+  - first:
+      213: -2631687526174172590
+    second: Carachter chevalier_949
+  - first:
+      213: 2081691998098740324
+    second: Carachter chevalier_950
+  - first:
+      213: -7635149688941248529
+    second: Carachter chevalier_951
+  - first:
+      213: 5947910887581303415
+    second: Carachter chevalier_952
+  - first:
+      213: -3353541704561113980
+    second: Carachter chevalier_953
+  - first:
+      213: 1375236359478394418
+    second: Carachter chevalier_954
+  - first:
+      213: 6352253700306641206
+    second: Carachter chevalier_955
+  - first:
+      213: 3593211964881511665
+    second: Carachter chevalier_956
+  - first:
+      213: -4091446495026562529
+    second: Carachter chevalier_957
+  - first:
+      213: -9123512821989264902
+    second: Carachter chevalier_958
+  - first:
+      213: 3414808296681860107
+    second: Carachter chevalier_959
+  - first:
+      213: 1586317451280008848
+    second: Carachter chevalier_960
+  - first:
+      213: -4843218577684729267
+    second: Carachter chevalier_961
+  - first:
+      213: 6762619284684960807
+    second: Carachter chevalier_962
+  - first:
+      213: 6814811161175372599
+    second: Carachter chevalier_963
+  - first:
+      213: 2622764218322223998
+    second: Carachter chevalier_964
+  - first:
+      213: -5358924348887998246
+    second: Carachter chevalier_965
+  - first:
+      213: -5757347299223655138
+    second: Carachter chevalier_966
+  - first:
+      213: -9089421111014124809
+    second: Carachter chevalier_967
+  - first:
+      213: -2736538999482832282
+    second: Carachter chevalier_968
+  - first:
+      213: -3820475167540534351
+    second: Carachter chevalier_969
+  - first:
+      213: 3008039697594874802
+    second: Carachter chevalier_970
+  - first:
+      213: 8251021260000785293
+    second: Carachter chevalier_971
+  - first:
+      213: 7748879997158862786
+    second: Carachter chevalier_972
+  - first:
+      213: -2982412491576560773
+    second: Carachter chevalier_973
+  - first:
+      213: 3245293434339292218
+    second: Carachter chevalier_974
+  - first:
+      213: 8281486573570189430
+    second: Carachter chevalier_975
+  - first:
+      213: 2273108787429381119
+    second: Carachter chevalier_976
+  - first:
+      213: -3492792050041789880
+    second: Carachter chevalier_977
+  - first:
+      213: -3569754237755039816
+    second: Carachter chevalier_978
+  - first:
+      213: -6584940475448678212
+    second: Carachter chevalier_979
+  - first:
+      213: -1664599211919116049
+    second: Carachter chevalier_980
+  - first:
+      213: -5311708721765531074
+    second: Carachter chevalier_981
+  - first:
+      213: 4928160843552326636
+    second: Carachter chevalier_982
+  - first:
+      213: 4573733258884824623
+    second: Carachter chevalier_983
+  - first:
+      213: 1106069067097642195
+    second: Carachter chevalier_984
+  - first:
+      213: 2863086606274549172
+    second: Carachter chevalier_985
+  - first:
+      213: -7681538217528747269
+    second: Carachter chevalier_986
+  - first:
+      213: -6428277281071340060
+    second: Carachter chevalier_987
+  - first:
+      213: 6040175497730419846
+    second: Carachter chevalier_988
+  - first:
+      213: 27531532495761353
+    second: Carachter chevalier_989
+  - first:
+      213: 7796969028985810052
+    second: Carachter chevalier_990
+  - first:
+      213: 8634304372705001718
+    second: Carachter chevalier_991
+  - first:
+      213: 537433426160399504
+    second: Carachter chevalier_992
+  - first:
+      213: 4268650528296477450
+    second: Carachter chevalier_993
+  - first:
+      213: 8919671362012073800
+    second: Carachter chevalier_994
+  - first:
+      213: 5407224345316544977
+    second: Carachter chevalier_995
+  - first:
+      213: -6351948455015641154
+    second: Carachter chevalier_996
+  - first:
+      213: -2660743626331525428
+    second: Carachter chevalier_997
+  - first:
+      213: 1080592871651684752
+    second: Carachter chevalier_998
+  - first:
+      213: 6404782133999500561
+    second: Carachter chevalier_999
+  - first:
+      213: 861100269708763453
+    second: Carachter chevalier_1000
+  - first:
+      213: 8887311850184542784
+    second: Carachter chevalier_1001
+  - first:
+      213: -8526641891216489220
+    second: Carachter chevalier_1002
+  - first:
+      213: 1690936978046342315
+    second: Carachter chevalier_1003
+  - first:
+      213: 2645729652378322909
+    second: Carachter chevalier_1004
+  - first:
+      213: 2033999749584480107
+    second: Carachter chevalier_1005
+  - first:
+      213: 4919898393347670337
+    second: Carachter chevalier_1006
+  - first:
+      213: 2821417826060541087
+    second: Carachter chevalier_1007
+  - first:
+      213: 906212509864098192
+    second: Carachter chevalier_1008
+  - first:
+      213: 2230417975710304174
+    second: Carachter chevalier_1009
+  - first:
+      213: 2355626876407237905
+    second: Carachter chevalier_1010
+  - first:
+      213: -336687703350620418
+    second: Carachter chevalier_1011
+  - first:
+      213: -333240677808974376
+    second: Carachter chevalier_1012
+  - first:
+      213: -5107881011185207502
+    second: Carachter chevalier_1013
+  - first:
+      213: 8528004029648013324
+    second: Carachter chevalier_1014
+  - first:
+      213: 8317861553724228704
+    second: Carachter chevalier_1015
+  - first:
+      213: -6914618156932514492
+    second: Carachter chevalier_1016
+  - first:
+      213: 6451987016102950990
+    second: Carachter chevalier_1017
+  - first:
+      213: -3304953864477437100
+    second: Carachter chevalier_1018
+  - first:
+      213: 7377424544258435480
+    second: Carachter chevalier_1019
+  - first:
+      213: -6467893795155183351
+    second: Carachter chevalier_1020
+  - first:
+      213: 5895888681391650355
+    second: Carachter chevalier_1021
+  - first:
+      213: 8150048018393196012
+    second: Carachter chevalier_1022
+  - first:
+      213: 7895875361102502985
+    second: Carachter chevalier_1023
+  - first:
+      213: -1610610286512436912
+    second: Carachter chevalier_1024
+  - first:
+      213: 3827914677101818659
+    second: Carachter chevalier_1025
+  - first:
+      213: 5167664063128424539
+    second: Carachter chevalier_1026
+  - first:
+      213: 6298023182339673801
+    second: Carachter chevalier_1027
+  - first:
+      213: -4726553209718382897
+    second: Carachter chevalier_1028
+  - first:
+      213: 8920395067654761817
+    second: Carachter chevalier_1029
+  - first:
+      213: -135374908489043396
+    second: Carachter chevalier_1030
+  - first:
+      213: 1528006991490251465
+    second: Carachter chevalier_1031
+  - first:
+      213: -1531030654239042922
+    second: Carachter chevalier_1032
+  - first:
+      213: 6990033867171300217
+    second: Carachter chevalier_1033
+  - first:
+      213: -8166599426720302352
+    second: Carachter chevalier_1034
+  - first:
+      213: -5287995388730549300
+    second: Carachter chevalier_1035
+  - first:
+      213: 811695880429338264
+    second: Carachter chevalier_1036
+  - first:
+      213: 7848772805224575245
+    second: Carachter chevalier_1037
+  - first:
+      213: 4999791396219941759
+    second: Carachter chevalier_1038
+  - first:
+      213: -5240780104064563492
+    second: Carachter chevalier_1039
+  - first:
+      213: 6187327041918543943
+    second: Carachter chevalier_1040
+  - first:
+      213: -167318967870593099
+    second: Carachter chevalier_1041
+  - first:
+      213: 1582667293218159161
+    second: Carachter chevalier_1042
+  - first:
+      213: -3722788675908678818
+    second: Carachter chevalier_1043
+  - first:
+      213: -7974709516464486281
+    second: Carachter chevalier_1044
+  - first:
+      213: -822153941681113753
+    second: Carachter chevalier_1045
+  - first:
+      213: -8645547403678620200
+    second: Carachter chevalier_1046
+  - first:
+      213: -910243221542195036
+    second: Carachter chevalier_1047
+  - first:
+      213: 8698860271558406452
+    second: Carachter chevalier_1048
+  - first:
+      213: -8086945039718807712
+    second: Carachter chevalier_1049
+  - first:
+      213: 3244173904394677998
+    second: Carachter chevalier_1050
+  - first:
+      213: 474183773600572754
+    second: Carachter chevalier_1051
+  - first:
+      213: -6341452223726325724
+    second: Carachter chevalier_1052
+  - first:
+      213: 4941723018367113102
+    second: Carachter chevalier_1053
+  - first:
+      213: -1796614898212132845
+    second: Carachter chevalier_1054
+  - first:
+      213: 5690189169512422442
+    second: Carachter chevalier_1055
+  - first:
+      213: 968201056074196325
+    second: Carachter chevalier_1056
+  - first:
+      213: 4468332117655856489
+    second: Carachter chevalier_1057
+  - first:
+      213: -2125554130334374605
+    second: Carachter chevalier_1058
+  - first:
+      213: 6464834451708766036
+    second: Carachter chevalier_1059
+  - first:
+      213: 8147639087744039088
+    second: Carachter chevalier_1060
+  - first:
+      213: 426611491104268941
+    second: Carachter chevalier_1061
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carachter chevalier_0
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 459
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe2b1af83c7fc00800000000000000
+      internalID: 934430469363265528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carachter chevalier_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 457
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc932eee2327eb750800000000000000
+      internalID: 6322616489956489676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carachter chevalier_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 461
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637c736cf234d8d00800000000000000
+      internalID: 976510566677333814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carachter chevalier_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 458
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e04869c061ad2e0800000000000000
+      internalID: -2100342032894259624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carachter chevalier_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 455
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e9775f341f94040800000000000000
+      internalID: 4632498965910625841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carachter chevalier_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 456
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748c85abe1efa6b60800000000000000
+      internalID: 7740278317518473287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carachter chevalier_6
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 459
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1be650ac38c94c40800000000000000
+      internalID: 5497144982896044831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carachter chevalier_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 462
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b6fa8a0509d26b0800000000000000
+      internalID: -5319436908752835749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carachter chevalier_8
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 462
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86470b83b457cd510800000000000000
+      internalID: 1575262935606916200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carachter chevalier_9
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 463
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4f2ac8a294b60b0800000000000000
+      internalID: -5734409253429250855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

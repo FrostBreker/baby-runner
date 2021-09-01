@@ -1,0 +1,2108 @@
+fileFormatVersion: 2
+guid: e1fa1f69ae79df14e9a3a7fb915b4f50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -220352176924430794
+    second: tilesetOpenGame_0
+  - first:
+      213: -9092877109056754715
+    second: tilesetOpenGame_1
+  - first:
+      213: -4966102513344384272
+    second: tilesetOpenGame_2
+  - first:
+      213: -5438760988447494808
+    second: tilesetOpenGame_3
+  - first:
+      213: 2670441789632731698
+    second: tilesetOpenGame_4
+  - first:
+      213: -3279283878218921664
+    second: tilesetOpenGame_5
+  - first:
+      213: 2665632686403809361
+    second: tilesetOpenGame_6
+  - first:
+      213: -2613355401159301609
+    second: tilesetOpenGame_7
+  - first:
+      213: 2360391555242838948
+    second: tilesetOpenGame_8
+  - first:
+      213: 8872315458796050400
+    second: tilesetOpenGame_9
+  - first:
+      213: -1832893302449663487
+    second: tilesetOpenGame_10
+  - first:
+      213: -4382964923733840863
+    second: tilesetOpenGame_11
+  - first:
+      213: 4831579984895982398
+    second: tilesetOpenGame_12
+  - first:
+      213: -5381927512635025431
+    second: tilesetOpenGame_13
+  - first:
+      213: 3812337130587192544
+    second: tilesetOpenGame_14
+  - first:
+      213: 9182667085116434349
+    second: tilesetOpenGame_15
+  - first:
+      213: -7191345304147238166
+    second: tilesetOpenGame_16
+  - first:
+      213: -7052726779863890215
+    second: tilesetOpenGame_17
+  - first:
+      213: 8006539919804698662
+    second: tilesetOpenGame_18
+  - first:
+      213: 2827019350350824108
+    second: tilesetOpenGame_19
+  - first:
+      213: -6512007906690198169
+    second: tilesetOpenGame_20
+  - first:
+      213: -273683026551333408
+    second: tilesetOpenGame_21
+  - first:
+      213: 907512355527344649
+    second: tilesetOpenGame_22
+  - first:
+      213: -1413220680837186451
+    second: tilesetOpenGame_23
+  - first:
+      213: 1624114795671577935
+    second: tilesetOpenGame_24
+  - first:
+      213: 6090229695643319520
+    second: tilesetOpenGame_25
+  - first:
+      213: 1583098163162520613
+    second: tilesetOpenGame_26
+  - first:
+      213: 2458909676722755884
+    second: tilesetOpenGame_27
+  - first:
+      213: -7797915619679794089
+    second: tilesetOpenGame_28
+  - first:
+      213: 4090593442306773219
+    second: tilesetOpenGame_29
+  - first:
+      213: 5763472563044449148
+    second: tilesetOpenGame_30
+  - first:
+      213: -3584723221330999976
+    second: tilesetOpenGame_31
+  - first:
+      213: 5353228021536746351
+    second: tilesetOpenGame_32
+  - first:
+      213: -1824368835497721519
+    second: tilesetOpenGame_33
+  - first:
+      213: 45174117751451697
+    second: tilesetOpenGame_34
+  - first:
+      213: -7045829969884490747
+    second: tilesetOpenGame_35
+  - first:
+      213: -3191842211908239810
+    second: tilesetOpenGame_36
+  - first:
+      213: -857495023424017769
+    second: tilesetOpenGame_37
+  - first:
+      213: 4726018349895866451
+    second: tilesetOpenGame_38
+  - first:
+      213: -4946400453735780690
+    second: tilesetOpenGame_39
+  - first:
+      213: -4592283474575866033
+    second: tilesetOpenGame_40
+  - first:
+      213: 6381478339464643867
+    second: tilesetOpenGame_41
+  - first:
+      213: 8307833968651565506
+    second: tilesetOpenGame_42
+  - first:
+      213: -110752293138009948
+    second: tilesetOpenGame_43
+  - first:
+      213: -6943234344270831764
+    second: tilesetOpenGame_44
+  - first:
+      213: -8432404192945990795
+    second: tilesetOpenGame_45
+  - first:
+      213: -7116659807854489175
+    second: tilesetOpenGame_46
+  - first:
+      213: 5346013524662075865
+    second: tilesetOpenGame_47
+  - first:
+      213: 5863395506879647312
+    second: tilesetOpenGame_48
+  - first:
+      213: 9004924093535443944
+    second: tilesetOpenGame_49
+  - first:
+      213: 4200837248622295197
+    second: tilesetOpenGame_50
+  - first:
+      213: 2826552904447724216
+    second: tilesetOpenGame_51
+  - first:
+      213: -7144762679242667464
+    second: tilesetOpenGame_52
+  - first:
+      213: 6409306896609359996
+    second: tilesetOpenGame_53
+  - first:
+      213: 4664185246366252689
+    second: tilesetOpenGame_54
+  - first:
+      213: 878689704023562916
+    second: tilesetOpenGame_55
+  - first:
+      213: 7805702651329427805
+    second: tilesetOpenGame_56
+  - first:
+      213: 7171088347003753486
+    second: tilesetOpenGame_57
+  - first:
+      213: 7170356013205282133
+    second: tilesetOpenGame_58
+  - first:
+      213: 5849142225474249394
+    second: tilesetOpenGame_59
+  - first:
+      213: -3343179165292391484
+    second: tilesetOpenGame_60
+  - first:
+      213: -5772331123703794174
+    second: tilesetOpenGame_61
+  - first:
+      213: -1922474227125215841
+    second: tilesetOpenGame_62
+  - first:
+      213: 4839216649999149720
+    second: tilesetOpenGame_63
+  - first:
+      213: -5640568150380122651
+    second: tilesetOpenGame_64
+  - first:
+      213: 191238812832843020
+    second: tilesetOpenGame_65
+  - first:
+      213: 2082691518797713083
+    second: tilesetOpenGame_66
+  - first:
+      213: 7246117568110655443
+    second: tilesetOpenGame_67
+  - first:
+      213: -1643610422639724981
+    second: tilesetOpenGame_68
+  - first:
+      213: 3293797163821612137
+    second: tilesetOpenGame_69
+  - first:
+      213: -8316755771685453859
+    second: tilesetOpenGame_70
+  - first:
+      213: -3931147502288929904
+    second: tilesetOpenGame_71
+  - first:
+      213: 1854217844123615954
+    second: tilesetOpenGame_72
+  - first:
+      213: -1529174563804456173
+    second: tilesetOpenGame_73
+  - first:
+      213: 5229807116460074216
+    second: tilesetOpenGame_74
+  - first:
+      213: -8437220969921881681
+    second: tilesetOpenGame_75
+  - first:
+      213: -4511336014314529243
+    second: tilesetOpenGame_76
+  - first:
+      213: 941427715599275987
+    second: tilesetOpenGame_77
+  - first:
+      213: 3206686363355999003
+    second: tilesetOpenGame_78
+  - first:
+      213: 7983970779344791496
+    second: tilesetOpenGame_79
+  - first:
+      213: -7281169839687163112
+    second: tilesetOpenGame_80
+  - first:
+      213: 4439433081985347835
+    second: tilesetOpenGame_81
+  - first:
+      213: 8388462506983792068
+    second: tilesetOpenGame_82
+  - first:
+      213: 6816526125932314097
+    second: tilesetOpenGame_83
+  - first:
+      213: -883965431609182701
+    second: tilesetOpenGame_84
+  - first:
+      213: -3931949347934392128
+    second: tilesetOpenGame_85
+  - first:
+      213: 4008613104253643671
+    second: tilesetOpenGame_86
+  - first:
+      213: -6378774546293499588
+    second: tilesetOpenGame_87
+  - first:
+      213: -1606211065129601512
+    second: tilesetOpenGame_88
+  - first:
+      213: -3273383335050480461
+    second: tilesetOpenGame_89
+  - first:
+      213: -8931426541404731757
+    second: tilesetOpenGame_90
+  - first:
+      213: 5819891060096211088
+    second: tilesetOpenGame_91
+  - first:
+      213: 4439726159944227833
+    second: tilesetOpenGame_92
+  - first:
+      213: 1487238674910243314
+    second: tilesetOpenGame_93
+  - first:
+      213: -641152266902643951
+    second: tilesetOpenGame_94
+  - first:
+      213: 7574086633068943781
+    second: tilesetOpenGame_95
+  - first:
+      213: -1183057059397615494
+    second: tilesetOpenGame_96
+  - first:
+      213: 8956729450193577871
+    second: tilesetOpenGame_97
+  - first:
+      213: 4267897377841743491
+    second: tilesetOpenGame_98
+  - first:
+      213: -4956766222185740003
+    second: tilesetOpenGame_99
+  - first:
+      213: -388172856405373916
+    second: tilesetOpenGame_100
+  - first:
+      213: 5876866612235074170
+    second: tilesetOpenGame_101
+  - first:
+      213: -3878545347726388573
+    second: tilesetOpenGame_102
+  - first:
+      213: 1779006847982110904
+    second: tilesetOpenGame_103
+  - first:
+      213: -2932233471078671449
+    second: tilesetOpenGame_104
+  - first:
+      213: -120752342802795730
+    second: tilesetOpenGame_105
+  - first:
+      213: -6048629460938720022
+    second: tilesetOpenGame_106
+  - first:
+      213: 9022929267114722258
+    second: tilesetOpenGame_107
+  - first:
+      213: 2673185656329162295
+    second: tilesetOpenGame_108
+  - first:
+      213: 4576649914317749858
+    second: tilesetOpenGame_109
+  - first:
+      213: -5261827700684119557
+    second: tilesetOpenGame_110
+  - first:
+      213: -3192349692456691121
+    second: tilesetOpenGame_111
+  - first:
+      213: 6519940264716585165
+    second: tilesetOpenGame_112
+  - first:
+      213: 8118376457935335688
+    second: tilesetOpenGame_113
+  - first:
+      213: 2313741689651316477
+    second: tilesetOpenGame_114
+  - first:
+      213: 2930348942382873616
+    second: tilesetOpenGame_115
+  - first:
+      213: 2873545210959622262
+    second: tilesetOpenGame_116
+  - first:
+      213: -2734735606770789775
+    second: tilesetOpenGame_117
+  - first:
+      213: 1956096193188173456
+    second: tilesetOpenGame_118
+  - first:
+      213: 1228029831072143113
+    second: tilesetOpenGame_119
+  - first:
+      213: -4183778108312039540
+    second: tilesetOpenGame_120
+  - first:
+      213: 2977508998045682218
+    second: tilesetOpenGame_121
+  - first:
+      213: -114340343273694016
+    second: tilesetOpenGame_122
+  - first:
+      213: 4552875910262116331
+    second: tilesetOpenGame_123
+  - first:
+      213: 1335574693638707734
+    second: tilesetOpenGame_124
+  - first:
+      213: -7960257361327818069
+    second: tilesetOpenGame_125
+  - first:
+      213: -2434052765770978153
+    second: tilesetOpenGame_126
+  - first:
+      213: 4335739931988550307
+    second: tilesetOpenGame_127
+  - first:
+      213: -1158887353533401525
+    second: tilesetOpenGame_128
+  - first:
+      213: -5111315551699014036
+    second: tilesetOpenGame_129
+  - first:
+      213: 7279173492152159928
+    second: tilesetOpenGame_130
+  - first:
+      213: 9149514859766298130
+    second: tilesetOpenGame_131
+  - first:
+      213: 4969034399129001088
+    second: tilesetOpenGame_132
+  - first:
+      213: 2851712617239423337
+    second: tilesetOpenGame_133
+  - first:
+      213: -4545653065826351729
+    second: tilesetOpenGame_134
+  - first:
+      213: 402021279547183357
+    second: tilesetOpenGame_135
+  - first:
+      213: 6911663335722001777
+    second: tilesetOpenGame_136
+  - first:
+      213: -3316713884212344767
+    second: tilesetOpenGame_137
+  - first:
+      213: 4107203763408148468
+    second: tilesetOpenGame_138
+  - first:
+      213: 9188388402925430147
+    second: tilesetOpenGame_139
+  - first:
+      213: -6047840390962707597
+    second: tilesetOpenGame_140
+  - first:
+      213: -4461945410761678382
+    second: tilesetOpenGame_141
+  - first:
+      213: 1659738294537856083
+    second: tilesetOpenGame_142
+  - first:
+      213: 7720699794658212489
+    second: tilesetOpenGame_143
+  - first:
+      213: -9167967628569788208
+    second: tilesetOpenGame_144
+  - first:
+      213: 8465129580000372315
+    second: tilesetOpenGame_145
+  - first:
+      213: 1281403075760335761
+    second: tilesetOpenGame_146
+  - first:
+      213: 2154978241857874071
+    second: tilesetOpenGame_147
+  - first:
+      213: -3994831196718756948
+    second: tilesetOpenGame_148
+  - first:
+      213: 1927283379482699739
+    second: tilesetOpenGame_149
+  - first:
+      213: -1236248242602971537
+    second: tilesetOpenGame_150
+  - first:
+      213: 4085555416318325650
+    second: tilesetOpenGame_151
+  - first:
+      213: 3477061995453855265
+    second: tilesetOpenGame_152
+  - first:
+      213: -5250003120230478014
+    second: tilesetOpenGame_153
+  - first:
+      213: -7991829099875547697
+    second: tilesetOpenGame_154
+  - first:
+      213: 2052809241835102304
+    second: tilesetOpenGame_155
+  - first:
+      213: -8800044556427977839
+    second: tilesetOpenGame_156
+  - first:
+      213: 6645397843187562947
+    second: tilesetOpenGame_157
+  - first:
+      213: -4939400297741323952
+    second: tilesetOpenGame_158
+  - first:
+      213: -5806846839753112531
+    second: tilesetOpenGame_159
+  - first:
+      213: 6371946253536553404
+    second: tilesetOpenGame_160
+  - first:
+      213: 6363391134269543772
+    second: tilesetOpenGame_161
+  - first:
+      213: -6756016616300179412
+    second: tilesetOpenGame_162
+  - first:
+      213: 494666072275147803
+    second: tilesetOpenGame_163
+  - first:
+      213: -8415715499792440622
+    second: tilesetOpenGame_164
+  - first:
+      213: -3717879161671369221
+    second: tilesetOpenGame_165
+  - first:
+      213: -8836652303004923904
+    second: tilesetOpenGame_166
+  - first:
+      213: -3671289561071861931
+    second: tilesetOpenGame_167
+  - first:
+      213: -5437627832747267129
+    second: tilesetOpenGame_168
+  - first:
+      213: -2807440208903894595
+    second: tilesetOpenGame_169
+  - first:
+      213: -2829866444260146040
+    second: tilesetOpenGame_170
+  - first:
+      213: -8132945274334318881
+    second: tilesetOpenGame_171
+  - first:
+      213: 4048436216778572562
+    second: tilesetOpenGame_172
+  - first:
+      213: 3142166695539116688
+    second: tilesetOpenGame_173
+  - first:
+      213: 2226225196352589444
+    second: tilesetOpenGame_174
+  - first:
+      213: -595190175096568162
+    second: tilesetOpenGame_175
+  - first:
+      213: 4725946310296027001
+    second: tilesetOpenGame_176
+  - first:
+      213: -1166059627143920707
+    second: tilesetOpenGame_177
+  - first:
+      213: -5708423643803900020
+    second: tilesetOpenGame_178
+  - first:
+      213: 998052667196428396
+    second: tilesetOpenGame_179
+  - first:
+      213: 6299914250873906560
+    second: tilesetOpenGame_180
+  - first:
+      213: 1671387021242681025
+    second: tilesetOpenGame_181
+  - first:
+      213: -6186222595381877142
+    second: tilesetOpenGame_182
+  - first:
+      213: 7447556505672478633
+    second: tilesetOpenGame_183
+  - first:
+      213: -8966451555244428448
+    second: tilesetOpenGame_184
+  - first:
+      213: 5578757241576804002
+    second: tilesetOpenGame_185
+  - first:
+      213: -6589760577853414220
+    second: tilesetOpenGame_186
+  - first:
+      213: -7121914493351297800
+    second: tilesetOpenGame_187
+  - first:
+      213: 4372817580196534881
+    second: tilesetOpenGame_188
+  - first:
+      213: 3712312660281393599
+    second: tilesetOpenGame_189
+  - first:
+      213: 2411412589054743066
+    second: tilesetOpenGame_190
+  - first:
+      213: 4915160644497628492
+    second: tilesetOpenGame_191
+  - first:
+      213: -364806050954578318
+    second: tilesetOpenGame_192
+  - first:
+      213: 7879543993792329340
+    second: tilesetOpenGame_193
+  - first:
+      213: 1334430959459107067
+    second: tilesetOpenGame_194
+  - first:
+      213: -5661495599824762150
+    second: tilesetOpenGame_195
+  - first:
+      213: 4456213812531286941
+    second: tilesetOpenGame_196
+  - first:
+      213: -1112311263259873476
+    second: tilesetOpenGame_197
+  - first:
+      213: -5148743204011328795
+    second: tilesetOpenGame_198
+  - first:
+      213: -1529594964377626850
+    second: tilesetOpenGame_199
+  - first:
+      213: 8847979432477831361
+    second: tilesetOpenGame_200
+  - first:
+      213: -8885915541318960786
+    second: tilesetOpenGame_201
+  - first:
+      213: 6434543198280011068
+    second: tilesetOpenGame_202
+  - first:
+      213: 2801067251088445833
+    second: tilesetOpenGame_203
+  - first:
+      213: 5682614226473948395
+    second: tilesetOpenGame_204
+  - first:
+      213: 4222406908247366043
+    second: tilesetOpenGame_205
+  - first:
+      213: 1092929412706285313
+    second: tilesetOpenGame_206
+  - first:
+      213: -5939149222920430838
+    second: tilesetOpenGame_207
+  - first:
+      213: 6042462707290160022
+    second: tilesetOpenGame_208
+  - first:
+      213: -3182078604554240862
+    second: tilesetOpenGame_209
+  - first:
+      213: 604380821148754744
+    second: tilesetOpenGame_210
+  - first:
+      213: -4835837093900862834
+    second: tilesetOpenGame_211
+  - first:
+      213: 5725466352198226793
+    second: tilesetOpenGame_212
+  - first:
+      213: -5452326185959714961
+    second: tilesetOpenGame_213
+  - first:
+      213: 8432166393119364903
+    second: tilesetOpenGame_214
+  - first:
+      213: 5497806958627318083
+    second: tilesetOpenGame_215
+  - first:
+      213: -1232215238233711077
+    second: tilesetOpenGame_216
+  - first:
+      213: -462052071011609329
+    second: tilesetOpenGame_217
+  - first:
+      213: -4497698380779484519
+    second: tilesetOpenGame_218
+  - first:
+      213: -415673034944019459
+    second: tilesetOpenGame_219
+  - first:
+      213: -7276249967672782209
+    second: tilesetOpenGame_220
+  - first:
+      213: -4277250624959375198
+    second: tilesetOpenGame_221
+  - first:
+      213: 5108236325523616512
+    second: tilesetOpenGame_222
+  - first:
+      213: 487562690236358555
+    second: tilesetOpenGame_223
+  - first:
+      213: -8797430416283346800
+    second: tilesetOpenGame_224
+  - first:
+      213: 2426059221907421738
+    second: tilesetOpenGame_225
+  - first:
+      213: 4570244748577100313
+    second: tilesetOpenGame_226
+  - first:
+      213: 552881773536017424
+    second: tilesetOpenGame_227
+  - first:
+      213: -5909080947458815106
+    second: tilesetOpenGame_228
+  - first:
+      213: -994061798573664918
+    second: tilesetOpenGame_229
+  - first:
+      213: 4704229303104983367
+    second: tilesetOpenGame_230
+  - first:
+      213: -5845582464480372108
+    second: tilesetOpenGame_231
+  - first:
+      213: 1442739093824883995
+    second: tilesetOpenGame_232
+  - first:
+      213: 4214834370068311182
+    second: tilesetOpenGame_233
+  - first:
+      213: 8996966952646061090
+    second: tilesetOpenGame_234
+  - first:
+      213: -6668580594083373204
+    second: tilesetOpenGame_235
+  - first:
+      213: -1618369389382887732
+    second: tilesetOpenGame_236
+  - first:
+      213: -6575431397034871809
+    second: tilesetOpenGame_237
+  - first:
+      213: -1769686797704523307
+    second: tilesetOpenGame_238
+  - first:
+      213: -1470755066264305171
+    second: tilesetOpenGame_239
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilesetOpenGame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e6fe0dcd621fcf0800000000000000
+      internalID: -220352176924430794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb2468027c9fc180800000000000000
+      internalID: -9092877109056754715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2feed531cd41bb0800000000000000
+      internalID: -4966102513344384272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86da55162b3a584b0800000000000000
+      internalID: -5438760988447494808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ada68b8a05f0520800000000000000
+      internalID: 2670441789632731698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0498819efa4ad72d0800000000000000
+      internalID: -3279283878218921664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f4ce1eca3ef420800000000000000
+      internalID: 2665632686403809361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7162d0adb1f7bbbd0800000000000000
+      internalID: -2613355401159301609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abc4151d9bc1c020800000000000000
+      internalID: 2360391555242838948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7deb8f6ebc02b70800000000000000
+      internalID: 8872315458796050400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1029b44a0414096e0800000000000000
+      internalID: -1832893302449663487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ce8d1bf949c23c0800000000000000
+      internalID: -4382964923733840863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bbc9fb5683d0340800000000000000
+      internalID: 4831579984895982398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7dc72217d8f45b0800000000000000
+      internalID: -5381927512635025431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec7ea0fb6428e430800000000000000
+      internalID: 3812337130587192544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da76903ef036f6f70800000000000000
+      internalID: 9182667085116434349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae261291c85333c90800000000000000
+      internalID: -7191345304147238166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d604545c5eaf1e90800000000000000
+      internalID: -7052726779863890215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62091f7f2a1fc1f60800000000000000
+      internalID: 8006539919804698662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca201d6fe179b3720800000000000000
+      internalID: 2827019350350824108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765123b9f43b0a5a0800000000000000
+      internalID: -6512007906690198169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed9a55ccbea33cf0800000000000000
+      internalID: -273683026551333408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024c7cdda1289c00800000000000000
+      internalID: 907512355527344649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb671474b336ce0800000000000000
+      internalID: -1413220680837186451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45e57e3dc30a8610800000000000000
+      internalID: 1624114795671577935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecfa5904a7d48450800000000000000
+      internalID: 6090229695643319520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c10eb446b48f510800000000000000
+      internalID: 1583098163162520613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2994d7b25dcf1220800000000000000
+      internalID: 2458909676722755884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c048c1f0d38c390800000000000000
+      internalID: -7797915619679794089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0dc391015b4c830800000000000000
+      internalID: 4090593442306773219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b79f882c7fbff40800000000000000
+      internalID: 5763472563044449148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c87e0931804ec0800000000000000
+      internalID: -3584723221330999976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b6d51e58c7a4a40800000000000000
+      internalID: 5353228021536746351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1518dd4c53a8ea6e0800000000000000
+      internalID: -1824368835497721519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130fd99ee9d70a000800000000000000
+      internalID: 45174117751451697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504db3909fe283e90800000000000000
+      internalID: -7045829969884490747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ebc1c5b6c44b3d0800000000000000
+      internalID: -3191842211908239810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a6524c1d09914f0800000000000000
+      internalID: -857495023424017769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358558356a0369140800000000000000
+      internalID: 4726018349895866451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae6f369efada5bb0800000000000000
+      internalID: -4946400453735780690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f474206c28ee440c0800000000000000
+      internalID: -4592283474575866033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15c3ad3db09f8850800000000000000
+      internalID: 6381478339464643867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9766a4afa5b4370800000000000000
+      internalID: 8307833968651565506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f27d4067867ef0800000000000000
+      internalID: -110752293138009948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fd175962da4af90800000000000000
+      internalID: -6943234344270831764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57390f430151afa80800000000000000
+      internalID: -8432404192945990795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a198854c9b8c3d90800000000000000
+      internalID: -7116659807854489175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1caede9fad03a40800000000000000
+      internalID: 5346013524662075865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ece2dd527fe5150800000000000000
+      internalID: 5863395506879647312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb5980c0cae7fc70800000000000000
+      internalID: 9004924093535443944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d987c5b783f5c4a30800000000000000
+      internalID: 4200837248622295197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba847014eee93720800000000000000
+      internalID: 2826552904447724216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ac543a234b8dc90800000000000000
+      internalID: -7144762679242667464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78bcdc1aae62f850800000000000000
+      internalID: 6409306896609359996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e374805c38ab040800000000000000
+      internalID: 4664185246366252689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1e1c51abb13c00800000000000000
+      internalID: 878689704023562916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b0da743d635c60800000000000000
+      internalID: 7805702651329427805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e041a188bd2d48360800000000000000
+      internalID: 7171088347003753486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ddf28cdc8328360800000000000000
+      internalID: 7170356013205282133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetOpenGame_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2612e2dd35c2150800000000000000
+      internalID: 5849142225474249394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
